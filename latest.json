@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "Zkušební vydání — ověřuje, že aktualizace doopravdy dojdou až do nainstalované Ory.",
+  "pub_date": "2026-08-30T09:16:17.428Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUNRV2twbCtIZ3RKeDF5T1JmcW9SRmdyOXh5bXVUQk9hU1dMOHQ0UlZhcGFnQXZ5TUc1R0RHbkpuTTdJRGhRWVFMOERUS2dtR3ZiWTNaQUhNTU5UakFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDgxMzc3CWZpbGU6T3JhLmFwcC50YXIuZ3oKdktlUVIrRkJISFRlWkZaTWlRWmFBT1JBWUdhUVJsbnFFWUUzVGk5NlZram5LTUE2NXYvcWtMTGlUV05sSTFKWWhWazUzQ3lXNGtpa3F2dDcrcmgyQkE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.1.1/Ora.app.tar.gz"
+    }
+  }
+}
