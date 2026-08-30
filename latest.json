@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Spolehlivější zjišťování aktualizací. GitHub po vydání ještě několik minut podával starou odpověď, takže Ora mohla tvrdit, že je aktuální, i když nebyla.",
-  "pub_date": "2026-08-30T09:19:44.440Z",
+  "version": "0.1.3",
+  "notes": "Ověřovací vydání — zkouška, že se aktualizace nainstaluje sama do už běžící Ory. V samotné aplikaci se proti 0.1.2 nic nemění.",
+  "pub_date": "2026-08-30T09:24:33.411Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUVZNlVEaURsZ0ZkVVdLalFqenhKTzZJK21oSWVxTEpyN3Q4UWwvTXVRVjFjMFFvbW4wL3Jlc25yeElsSWMvZTZRejZyb0pMNktzajFhTzg1U0tjVEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDgxNTg0CWZpbGU6T3JhLmFwcC50YXIuZ3oKKytuZFN6Z0hiSjVXOGE3U211dnMrNEo4ME9rZXdpVHdFSVVYUFlqTHYyWEFIWmg4dElzVkZjdEhJVlUwcVNrUDg2Z2xVSG8zNkdCR1NDd3AwUnowRFE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.1.2/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUMyK0l4aWpVM2Y2UTBoLzlSSWVpNXYwNGxBd3I0Wnh4a0ZwV0FxemxFbUs1Z1ZSWC9WQVNKalFSUDZ0OVJVQ3lqZHBCVUV1M0ZrWERRcUFycy9qZ0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDgxODczCWZpbGU6T3JhLmFwcC50YXIuZ3oKdnRLdGlBOE51UFVNNVE0elNZNWVTcm8rYjFIV0FjZmJCOHVWbUJXc1U0bDZCNlhYUWdzTmRpd0VDQzNHMUw1Ym1yNURGT1psMzZtZDhFdlptMHJ5QkE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.1.3/Ora.app.tar.gz"
     }
   }
 }
