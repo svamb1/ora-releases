@@ -1,11 +1,11 @@
 {
-  "version": "0.1.3",
-  "notes": "Ověřovací vydání — zkouška, že se aktualizace nainstaluje sama do už běžící Ory. V samotné aplikaci se proti 0.1.2 nic nemění.",
-  "pub_date": "2026-08-30T09:24:33.411Z",
+  "version": "0.1.4",
+  "notes": "Agenti v sidebaru mají vlastní sekci a každý svého avatara. Tým se přesunul pod ně a má vlastní symbol. Barevná jména agentů nahradily avatary — ve vlákně, v hlavičce konverzace i v předání práce. Nastavení agenta jde nově odscrollovat.",
+  "pub_date": "2026-08-31T14:39:26.446Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUMyK0l4aWpVM2Y2UTBoLzlSSWVpNXYwNGxBd3I0Wnh4a0ZwV0FxemxFbUs1Z1ZSWC9WQVNKalFSUDZ0OVJVQ3lqZHBCVUV1M0ZrWERRcUFycy9qZ0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDgxODczCWZpbGU6T3JhLmFwcC50YXIuZ3oKdnRLdGlBOE51UFVNNVE0elNZNWVTcm8rYjFIV0FjZmJCOHVWbUJXc1U0bDZCNlhYUWdzTmRpd0VDQzNHMUw1Ym1yNURGT1psMzZtZDhFdlptMHJ5QkE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.1.3/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUhHeGQ5VGlMODR1ZnN0RzJwM0xQR3NuTTV3NW55bGFPb2RnSmRqVGc1Y1dVZWp6azJRbmRhZmRFZFRyZ2xXNEVFckNXdHJMNW5RSC9xODZ3WWk2a1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTg3MTY2CWZpbGU6T3JhLmFwcC50YXIuZ3oKVWlLSGlHbEVnUmVjTm1lbHczb2RwQ3Q2YXJmNHo3U2ZDb2xWQlk2VWRMV0Z0TlFZQng3ZzJseUhTMjVsR3RSTlFGUUt5N1NiSTlUa1NDb0J5YzArRFE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.1.4/Ora.app.tar.gz"
     }
   }
 }
