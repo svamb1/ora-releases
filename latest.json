@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Agenti v sidebaru mají vlastní sekci a každý svého avatara. Tým se přesunul pod ně a má vlastní symbol. Barevná jména agentů nahradily avatary — ve vlákně, v hlavičce konverzace i v předání práce. Nastavení agenta jde nově odscrollovat.",
-  "pub_date": "2026-08-31T14:39:26.446Z",
+  "version": "0.1.5",
+  "notes": "Agentovi jde v jeho nastavení přidat vlastní znalosti — Word, PDF, prezentace, tabulky i text. Krátká pravidla nese v každém zadání celá, dlouhé podklady si přečte sám, až na téma narazí; přepíná se to u každého souboru zvlášť. Zapisovat do nich agent nemůže, jsou tvoje. Se smazaným agentem teď odejde i všechno, co si k němu uložil.",
+  "pub_date": "2026-09-02T09:11:46.438Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUhHeGQ5VGlMODR1ZnN0RzJwM0xQR3NuTTV3NW55bGFPb2RnSmRqVGc1Y1dVZWp6azJRbmRhZmRFZFRyZ2xXNEVFckNXdHJMNW5RSC9xODZ3WWk2a1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTg3MTY2CWZpbGU6T3JhLmFwcC50YXIuZ3oKVWlLSGlHbEVnUmVjTm1lbHczb2RwQ3Q2YXJmNHo3U2ZDb2xWQlk2VWRMV0Z0TlFZQng3ZzJseUhTMjVsR3RSTlFGUUt5N1NiSTlUa1NDb0J5YzArRFE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.1.4/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUZpVFlFd3ltbFRwcWpVMkR4RU4xelhadVlpSk1WUHY0K24zZHYyRUZ5R3E1TEpOYU9wOWJsMmlMemVqdEtrU2Z0Qm0xblRWV0ZOUmRoMDBMOUJQWWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzQwMzA2CWZpbGU6T3JhLmFwcC50YXIuZ3oKQ1hFcCtFM3drU20wbzR6WWJpLzUxKzNYTFUxZm5BaVBJZ0p0YUxrMkMvRmFhbE5SUHlFNUxSbEl4K2JSUnFKaWFEd2V2RHNyUVdOMVBEdEZDSFZ0RFE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.1.5/Ora.app.tar.gz"
     }
   }
 }
