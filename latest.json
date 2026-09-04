@@ -1,11 +1,11 @@
 {
-  "version": "0.1.5",
-  "notes": "Agentovi jde v jeho nastavení přidat vlastní znalosti — Word, PDF, prezentace, tabulky i text. Krátká pravidla nese v každém zadání celá, dlouhé podklady si přečte sám, až na téma narazí; přepíná se to u každého souboru zvlášť. Zapisovat do nich agent nemůže, jsou tvoje. Se smazaným agentem teď odejde i všechno, co si k němu uložil.",
-  "pub_date": "2026-09-02T09:11:46.438Z",
+  "version": "0.2.0",
+  "notes": "Agent si nově umí nastavit a upravit svoji vlastní automatizaci na které bude pracovat.",
+  "pub_date": "2026-09-04T08:57:26.413Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUZpVFlFd3ltbFRwcWpVMkR4RU4xelhadVlpSk1WUHY0K24zZHYyRUZ5R3E1TEpOYU9wOWJsMmlMemVqdEtrU2Z0Qm0xblRWV0ZOUmRoMDBMOUJQWWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzQwMzA2CWZpbGU6T3JhLmFwcC50YXIuZ3oKQ1hFcCtFM3drU20wbzR6WWJpLzUxKzNYTFUxZm5BaVBJZ0p0YUxrMkMvRmFhbE5SUHlFNUxSbEl4K2JSUnFKaWFEd2V2RHNyUVdOMVBEdEZDSFZ0RFE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.1.5/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU5hN2xHeS9nTUoxZitHQ1E1cDB3K0ttNEJCQ0krQ01xSElRcE0wZ3ExUWhEaWdxYVJGcmNiVU1lSGZkSzVWY0FMSFRZQWFtQjNkaHFFRTMvNURsdUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTEyMjQ2CWZpbGU6T3JhLmFwcC50YXIuZ3oKUStIbGN2QnNVTW43Q1Fpc0tjUkJWM3h5SlY0VlVnQlZhMTBhazRjNlJSZDVnNTV6NzgwUkt2VTJnTW00U3Y3aEU0MVZBbXNNaVZiUCtnTkNYYTM4Q1E9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.2.0/Ora.app.tar.gz"
     }
   }
 }
