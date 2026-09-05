@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "Agent si nově umí nastavit a upravit svoji vlastní automatizaci na které bude pracovat.",
-  "pub_date": "2026-09-04T08:57:26.413Z",
+  "version": "0.2.1",
+  "notes": "Každý agent v Coworku má nově vlastní výchozí model a míru uvažování — nastavíš je v jeho nastavení a platí, když pracuje sám: na úkolu z automatizace nebo na tom, co přijde mailem. Dřív se v takovém běhu vzalo to, co zrovna zbylo v pillu nahoře. V otevřeném rozhovoru s agentem model dál přepneš pillem, jako doteď.\n\nOra Agent si hledání na internetu volá sám, když ho potřebuje. Přepínač Web search u zadání proto zmizel — stačí mít vyplněný Tavily klíč v Nastavení. Spolu s ním zmizel i chip s režimem, který na agenta stejně nikdy nepůsobil.\n\nSeznam cloud modelů v pillu nahoře jde konečně proscrollovat.",
+  "pub_date": "2026-09-05T14:36:28.387Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU5hN2xHeS9nTUoxZitHQ1E1cDB3K0ttNEJCQ0krQ01xSElRcE0wZ3ExUWhEaWdxYVJGcmNiVU1lSGZkSzVWY0FMSFRZQWFtQjNkaHFFRTMvNURsdUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTEyMjQ2CWZpbGU6T3JhLmFwcC50YXIuZ3oKUStIbGN2QnNVTW43Q1Fpc0tjUkJWM3h5SlY0VlVnQlZhMTBhazRjNlJSZDVnNTV6NzgwUkt2VTJnTW00U3Y3aEU0MVZBbXNNaVZiUCtnTkNYYTM4Q1E9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.2.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUdjdGRIZ3B1dXZXSGsreVFSL0d1NVNkZm5YVVZ0Vk8wSmphVUdjREVEN2tKcVRmR0cwR3JnM2hRNzBSbVN1bDh3QVQ1K2Vrdlg1NEdIR1AzejcwK0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjE4OTg4CWZpbGU6T3JhLmFwcC50YXIuZ3oKY3FZcmZiTFFFaEkrQlZvcUNjZnlta2lQYnVndEQrWmdaODJiN2c1b0xzdWF3bVFJRldnWEdSWFlGZ1NRRjRSd284VWMwY1ZQVHJQTjFUWjY3TXRVQWc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.2.1/Ora.app.tar.gz"
     }
   }
 }
