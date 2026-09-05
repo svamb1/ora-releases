@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "notes": "Každý agent v Coworku má nově vlastní výchozí model a míru uvažování — nastavíš je v jeho nastavení a platí, když pracuje sám: na úkolu z automatizace nebo na tom, co přijde mailem. Dřív se v takovém běhu vzalo to, co zrovna zbylo v pillu nahoře. V otevřeném rozhovoru s agentem model dál přepneš pillem, jako doteď.\n\nOra Agent si hledání na internetu volá sám, když ho potřebuje. Přepínač Web search u zadání proto zmizel — stačí mít vyplněný Tavily klíč v Nastavení. Spolu s ním zmizel i chip s režimem, který na agenta stejně nikdy nepůsobil.\n\nSeznam cloud modelů v pillu nahoře jde konečně proscrollovat.",
-  "pub_date": "2026-09-05T14:36:28.387Z",
+  "version": "0.3.0",
+  "notes": "Ora si teď dokumenty vyrábí sama — kromě Wordu umí i Excel, PowerPoint a PDF. Badatel k nim napíše kód, který soubor postaví, takže vznikne tabulka se vzorci nebo prezentace, ne text nacpaný do Wordu. Nástroje na to se stahují zvlášť v Nastavení (47 MB). Náhled výsledku ukazuje skutečný sešit i vysázené stránky PDF a dá se tažením zúžit či rozšířit.",
+  "pub_date": "2026-09-05T20:02:17.384Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUdjdGRIZ3B1dXZXSGsreVFSL0d1NVNkZm5YVVZ0Vk8wSmphVUdjREVEN2tKcVRmR0cwR3JnM2hRNzBSbVN1bDh3QVQ1K2Vrdlg1NEdIR1AzejcwK0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjE4OTg4CWZpbGU6T3JhLmFwcC50YXIuZ3oKY3FZcmZiTFFFaEkrQlZvcUNjZnlta2lQYnVndEQrWmdaODJiN2c1b0xzdWF3bVFJRldnWEdSWFlGZ1NRRjRSd284VWMwY1ZQVHJQTjFUWjY3TXRVQWc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.2.1/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRURKOGhzc090WHVTcHFndEVXUlYwQWIwS2FCUTQ2QmVFNHd2UlZPMDBmd3U5MTFiUHJoWjFibldrQUtwOWpYdUJRVUFmWkdhZ2o0SXNFM2NTNGd3bkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjM4NTM3CWZpbGU6T3JhLmFwcC50YXIuZ3oKTlZTQlZoTXE3bFFJdjNFeEJYdVVVMEZ0QWpoMkxONnpnWEU2Qk80U3I2Z08ra1A3YVNsQytPcmFyZmpjTmpHYXlTM3BlQUhoMmc5MmtyOVREZ2dWRGc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.3.0/Ora.app.tar.gz"
     }
   }
 }
