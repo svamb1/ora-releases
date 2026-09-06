@@ -1,11 +1,11 @@
 {
-  "version": "0.3.1",
-  "notes": "Vygenerované dokumenty se hlásí originální ikonou Excelu, Wordu nebo PowerPointu — ve vlákně i v panelu Soubory úkolu. Ikony sekcí v postranním panelu mají jednotnou velikost a menší rozestupy. Prázdný Chat se nadepisuje Chat, ne Ora.",
-  "pub_date": "2026-09-06T08:46:17.386Z",
+  "version": "0.4.0",
+  "notes": "Cloudová Ora: v Nastavení → Modely si můžeš zapnout, aby Ora běžela na cloudovém modelu místo lokálního — se vším, co ji dělá Orou (paměť, kalendář, pošta, kontakty, automatizace). Lokální model se pak vůbec nenačte a neblokuje RAM. Vybere se k tomu model a míra uvažování; Badatel v Coworku má dál svůj vlastní. Lokální modely zůstávají beze změny, přepnout jde kdykoliv zpátky. Pozor: se zapnutou Cloudovou Orou se tvoje osobní data posílají zvolenému poskytovateli.",
+  "pub_date": "2026-09-06T09:40:35.386Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUtzcnVoUkJrL3NsdFhHNmNVRVYrc3Jrd1NxZUJrek45dnBROVpVTWpoTXJZeXlsUjZEVHZBc25nYis0VFIzUFdNZUZsT1JwVGlFNHZxL3RtRnlqWkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Njg0Mzc3CWZpbGU6T3JhLmFwcC50YXIuZ3oKanBuQzJWU0RrQTJzNnFDQVZuekMySkVTQTBONjFBdi9LR3d3NTl0dGRHdHFQRk9zNXFlbm9mbzdnZkFFVlJtYmNiUjRvN3NVTDN4d3Zzcml0ajBhQ1E9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.3.1/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU1sMHgxZWdIdnN5MHRnWm9wZDFrdW9qc1hkNVVXZjRzS1BvcCt4YU13ckFHVHUvbkRZMlNYM2QzQWRTV2dTQ3NoWEw4dmZUYkNCT2tIZjZlZ2ZlVWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Njg3NjM1CWZpbGU6T3JhLmFwcC50YXIuZ3oKTXJVTy9RNGJZeWlpeTdZQ0lvSkw2RXdPWkRrTWFMQ0lhVDJoTkJtZVlzSkdPZ0ZqTzRQT3I3L3NBUDdTcUFWb3lOMUR6QnRUNTY5alNzUEZ0eWp0RFE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.4.0/Ora.app.tar.gz"
     }
   }
 }
