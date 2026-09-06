@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "Ora si teď dokumenty vyrábí sama — kromě Wordu umí i Excel, PowerPoint a PDF. Badatel k nim napíše kód, který soubor postaví, takže vznikne tabulka se vzorci nebo prezentace, ne text nacpaný do Wordu. Nástroje na to se stahují zvlášť v Nastavení (47 MB). Náhled výsledku ukazuje skutečný sešit i vysázené stránky PDF a dá se tažením zúžit či rozšířit.",
-  "pub_date": "2026-09-05T20:02:17.384Z",
+  "version": "0.3.1",
+  "notes": "Vygenerované dokumenty se hlásí originální ikonou Excelu, Wordu nebo PowerPointu — ve vlákně i v panelu Soubory úkolu. Ikony sekcí v postranním panelu mají jednotnou velikost a menší rozestupy. Prázdný Chat se nadepisuje Chat, ne Ora.",
+  "pub_date": "2026-09-06T08:46:17.386Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRURKOGhzc090WHVTcHFndEVXUlYwQWIwS2FCUTQ2QmVFNHd2UlZPMDBmd3U5MTFiUHJoWjFibldrQUtwOWpYdUJRVUFmWkdhZ2o0SXNFM2NTNGd3bkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjM4NTM3CWZpbGU6T3JhLmFwcC50YXIuZ3oKTlZTQlZoTXE3bFFJdjNFeEJYdVVVMEZ0QWpoMkxONnpnWEU2Qk80U3I2Z08ra1A3YVNsQytPcmFyZmpjTmpHYXlTM3BlQUhoMmc5MmtyOVREZ2dWRGc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.3.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUtzcnVoUkJrL3NsdFhHNmNVRVYrc3Jrd1NxZUJrek45dnBROVpVTWpoTXJZeXlsUjZEVHZBc25nYis0VFIzUFdNZUZsT1JwVGlFNHZxL3RtRnlqWkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Njg0Mzc3CWZpbGU6T3JhLmFwcC50YXIuZ3oKanBuQzJWU0RrQTJzNnFDQVZuekMySkVTQTBONjFBdi9LR3d3NTl0dGRHdHFQRk9zNXFlbm9mbzdnZkFFVlJtYmNiUjRvN3NVTDN4d3Zzcml0ajBhQ1E9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.3.1/Ora.app.tar.gz"
     }
   }
 }
