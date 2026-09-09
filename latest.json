@@ -1,11 +1,11 @@
 {
-  "version": "0.5.0",
-  "notes": "Ora umí předat práci týmu agentů. Co sama nezvládne, pošle specialistům — kdo si co vezme, rozdělí Cowork podle jejich zaměření. Ve vlákně je vidět, kdo právě pracuje a komu co předal, a v Coworku se dá práce sledovat naživo. Výsledek se vrátí Oře a ta ho pošle zpátky mailem i s dokumentem. Na cloudu už appka za běhu na pozadí nezamyká chat — místo plachty svítí dioda u Agenta.",
-  "pub_date": "2026-09-08T08:18:21.398Z",
+  "version": "0.6.0",
+  "notes": "Nastavení → Cloud modely jsou teď přehledný seznam poskytovatelů: klik otevře jednoho a teprve u něj vidíš klíč a jeho modely. Nově si můžeš přidat i vlastního poskytovatele s OpenAI-kompatibilním API — Groq, DeepSeek, Together, OpenRouter nebo vlastní server na tvém počítači. Opraveno: se zapnutou cloudovou Orou naskakovala po startu úvodní obrazovka místo posledního chatu.",
+  "pub_date": "2026-09-09T09:08:56.391Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUxCaEpxa3J6aDFhdU5RQnhDK3B6K0JhNHF2SS9STFZVaXNoSklwY2QxakFuVmp4VUU5ZlNmU2RzbHhhcmwxNTk4dnRIdlAra1FJd1JONHNqSlAwYmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODU1NTAxCWZpbGU6T3JhLmFwcC50YXIuZ3oKc3ZDVXc0MWI3SnkxNStFVWhCNmczTG1DNlVtMnJuK3ZFK2I2NGExYmNqbThKbml1WHRicW05cDVYV0hLS1BsRXdRbnhFVk44TEZjSDhqd0R4SGttQUE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.5.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUpEb2F6d0hoMVdUby9qUFpNTHUwcUVPdHRCRWtaOStXaXlqS1JoMnVhb0p3aFZnWW5qVmRRc2hOb1pzbVVUUzQvZXZFZm5nNldicXIwMGxXUkVKaEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTQ0OTM2CWZpbGU6T3JhLmFwcC50YXIuZ3oKQm1SYnlXcnp3ZjNxeVFkbGVQR09NbzdBUUUrVzhoaWhyTG1LOG14N2QwWCtFUzluM00wY29tSXVtQWs5Z1ozL05CSjJZOU9SdERDSWNqYWZSZVBOQWc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.6.0/Ora.app.tar.gz"
     }
   }
 }
