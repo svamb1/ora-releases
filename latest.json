@@ -1,11 +1,11 @@
 {
-  "version": "0.6.1",
-  "notes": "Okno Ory jde zase chytit za horní hranu a posunout kamkoliv po ploše. Doteď šlo jen zvětšovat — appce chybělo systémové oprávnění k posouvání vlastního okna, a Tauri takové odmítnutí neohlásí.",
-  "pub_date": "2026-09-09T09:16:30.392Z",
+  "version": "0.6.2",
+  "notes": "Soubor nebo screenshot jde teď přetáhnout myší do okna a rovnou se přiloží k promptu — v Chatu i v Agentovi. Při tažení se rámeček promptu rozsvítí, aby bylo vidět, kam soubor půjde. Opraveno i přikládání obrázků přes tlačítko Přiložit, které dřív hlásilo nepodporovaný formát.",
+  "pub_date": "2026-09-09T09:32:11.398Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRVBuVjltOE1JSHF4UUJIL1ZUWFRNSm9sMzl0ZlJUVUY3cysyU0FseDdBSnhnYm5lRjVBbHBSc0VNaXo5TmwzcWtMQVRyT2x2M0ZoS0Nxc0lUWXhpUHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTQ1MzkwCWZpbGU6T3JhLmFwcC50YXIuZ3oKY2lpbEE5bWJoSEVJL0xkMG14OVpOelg0cFVNTnZocERRVTVOTytIMFJJdDkvSDNCczRtK3A0WFpDRU5EL2MvSEFnWmhNSmdiaitrdHZNUnArZjhuQ2c9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.6.1/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUJhMGFBbjdFeVpLSWFabkJwUEFsVjVZU1VNeWVYT25Ub3lLVUpNVTJ2WVVXbEhNNkd2NS9uQ3ZHMng4Y3N5Q2dqRWEyeXpCOFQ2b0pGZE9jajNCaFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTQ2MzMxCWZpbGU6T3JhLmFwcC50YXIuZ3oKaFhCVFptUDlCdFpXRHBLeTdubW1YeEVCWExVY1g1V1N1TGRhOHd4aEx4OFZIQ0RjSjcyTjhmSlo0b3dqTVhya1RPejF0RnJEZUs1VjR5dUh1WUQyQlE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.6.2/Ora.app.tar.gz"
     }
   }
 }
