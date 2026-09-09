@@ -1,11 +1,11 @@
 {
-  "version": "0.6.0",
-  "notes": "Nastavení → Cloud modely jsou teď přehledný seznam poskytovatelů: klik otevře jednoho a teprve u něj vidíš klíč a jeho modely. Nově si můžeš přidat i vlastního poskytovatele s OpenAI-kompatibilním API — Groq, DeepSeek, Together, OpenRouter nebo vlastní server na tvém počítači. Opraveno: se zapnutou cloudovou Orou naskakovala po startu úvodní obrazovka místo posledního chatu.",
-  "pub_date": "2026-09-09T09:08:56.391Z",
+  "version": "0.6.1",
+  "notes": "Okno Ory jde zase chytit za horní hranu a posunout kamkoliv po ploše. Doteď šlo jen zvětšovat — appce chybělo systémové oprávnění k posouvání vlastního okna, a Tauri takové odmítnutí neohlásí.",
+  "pub_date": "2026-09-09T09:16:30.392Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUpEb2F6d0hoMVdUby9qUFpNTHUwcUVPdHRCRWtaOStXaXlqS1JoMnVhb0p3aFZnWW5qVmRRc2hOb1pzbVVUUzQvZXZFZm5nNldicXIwMGxXUkVKaEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTQ0OTM2CWZpbGU6T3JhLmFwcC50YXIuZ3oKQm1SYnlXcnp3ZjNxeVFkbGVQR09NbzdBUUUrVzhoaWhyTG1LOG14N2QwWCtFUzluM00wY29tSXVtQWs5Z1ozL05CSjJZOU9SdERDSWNqYWZSZVBOQWc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.6.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRVBuVjltOE1JSHF4UUJIL1ZUWFRNSm9sMzl0ZlJUVUY3cysyU0FseDdBSnhnYm5lRjVBbHBSc0VNaXo5TmwzcWtMQVRyT2x2M0ZoS0Nxc0lUWXhpUHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTQ1MzkwCWZpbGU6T3JhLmFwcC50YXIuZ3oKY2lpbEE5bWJoSEVJL0xkMG14OVpOelg0cFVNTnZocERRVTVOTytIMFJJdDkvSDNCczRtK3A0WFpDRU5EL2MvSEFnWmhNSmdiaitrdHZNUnArZjhuQ2c9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.6.1/Ora.app.tar.gz"
     }
   }
 }
