@@ -1,11 +1,11 @@
 {
-  "version": "0.7.0",
-  "notes": "Soubory teď chodí mailem oběma směry. Řekni Oře, ať ti najde soubor a pošle ho na mail — přiloží ho k odpovědi. A opačně: přepošli jí mail s přílohou a ona ti ji uloží do složky, kterou si řekneš. Odkazy z odpovědí se nově otevírají ve tvém prohlížeči místo v okně Ory.",
-  "pub_date": "2026-09-10T09:32:28.391Z",
+  "version": "0.7.1",
+  "notes": "Výsledek od agenta teď v mailu dorazí tak, jak ho odevzdal — Ora ho už nepřepisuje ani k němu nepřidává vlastní druhou verzi. Zmizely i cizí symboly z textu a dokumentů.",
+  "pub_date": "2026-09-11T09:01:38.379Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUZQT1N5bUZzay9XdS83UWViUXBMdlFwcUE3K0lhTEh3MnRoSGF2SldEdVl5UHQ5eHVBMUk1WUxORjNuUm4wc3FBcGZqeG1RTjZReUsvM01CeEtUZXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDMyNzQ4CWZpbGU6T3JhLmFwcC50YXIuZ3oKb3B2VDBaY3I1YjZIVndFc2pEbzBtUE42WnM0am9ZMytJZTZ3OHRmVXh0TzdoU1BnZ0JtcStJNVBURlIwOHd6d05IZGRPbnVySW9TRS9qaGdLMGd3Q3c9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.7.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRVB5WXZySGp3algyRldlbjNXVlRMUGRIRlJyNkZiNWR6K1JwN1ZXNXVJSFl1K25RZkVtOUVMeG1CY092SEx6akc1UUs0ZXYvMlBGZmNmOXYzcldSTWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTE3Mjk4CWZpbGU6T3JhLmFwcC50YXIuZ3oKdW5ZbzgyWFA1d1QySWpOMUo3S1J3cWZ5ZG1uMjBYeDVzb01xOUI2enNWZEpyRHZPNXVtY0hvTWRSRCtHQThGRXVTZWRJT0FqclhjZEFjTnNzR29rQXc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.7.1/Ora.app.tar.gz"
     }
   }
 }
