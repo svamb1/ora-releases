@@ -1,11 +1,11 @@
 {
-  "version": "0.7.1",
-  "notes": "Výsledek od agenta teď v mailu dorazí tak, jak ho odevzdal — Ora ho už nepřepisuje ani k němu nepřidává vlastní druhou verzi. Zmizely i cizí symboly z textu a dokumentů.",
-  "pub_date": "2026-09-11T09:01:38.379Z",
+  "version": "0.7.2",
+  "notes": "Meta je nově mezi poskytovateli — stačí kliknout, vložit klíč a vybrat model. Ora už také neodpovídá, že o tobě nic neví, když se jí přímo zeptáš.",
+  "pub_date": "2026-09-11T14:03:15.392Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRVB5WXZySGp3algyRldlbjNXVlRMUGRIRlJyNkZiNWR6K1JwN1ZXNXVJSFl1K25RZkVtOUVMeG1CY092SEx6akc1UUs0ZXYvMlBGZmNmOXYzcldSTWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTE3Mjk4CWZpbGU6T3JhLmFwcC50YXIuZ3oKdW5ZbzgyWFA1d1QySWpOMUo3S1J3cWZ5ZG1uMjBYeDVzb01xOUI2enNWZEpyRHZPNXVtY0hvTWRSRCtHQThGRXVTZWRJT0FqclhjZEFjTnNzR29rQXc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.7.1/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUlicnRyVjZlbXBqVEhhc1gyVkJtdnl3aXN4aVF4KzBVMTlDSENVR3ZObjQxZ3FsdDZOOWJoMjVaZkFMT3gvNHhaWWZBb0I2UFZFY0NPa3I2SlJwR3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTM1Mzk1CWZpbGU6T3JhLmFwcC50YXIuZ3oKbloyTTYrMTY0cTR5VUpoc0Y0dWVUNGJ6ZWtNcU9kUUZaR3VJM2NkQjRWMERQRVpnb3MySE9ua2FRcHhXc2lGeU9rVjdkYnNscWwwL2xEeWhsNUl2Q2c9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.7.2/Ora.app.tar.gz"
     }
   }
 }
