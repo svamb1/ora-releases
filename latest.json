@@ -1,11 +1,11 @@
 {
-  "version": "0.7.2",
-  "notes": "Meta je nově mezi poskytovateli — stačí kliknout, vložit klíč a vybrat model. Ora už také neodpovídá, že o tobě nic neví, když se jí přímo zeptáš.",
-  "pub_date": "2026-09-11T14:03:15.392Z",
+  "version": "0.7.3",
+  "notes": "Kalendář zase funguje. Ora teď pozná i omezené povolení Přidávat pouze a řekne přesně, co v Nastavení přepnout.",
+  "pub_date": "2026-09-12T08:02:03.390Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUlicnRyVjZlbXBqVEhhc1gyVkJtdnl3aXN4aVF4KzBVMTlDSENVR3ZObjQxZ3FsdDZOOWJoMjVaZkFMT3gvNHhaWWZBb0I2UFZFY0NPa3I2SlJwR3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTM1Mzk1CWZpbGU6T3JhLmFwcC50YXIuZ3oKbloyTTYrMTY0cTR5VUpoc0Y0dWVUNGJ6ZWtNcU9kUUZaR3VJM2NkQjRWMERQRVpnb3MySE9ua2FRcHhXc2lGeU9rVjdkYnNscWwwL2xEeWhsNUl2Q2c9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.7.2/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRVBscEx4RlNiZHErQTNjcFBGS2c2NXFZMUlQcnNpT2FFbCtaVk1Oei84bG5GY1I3MkM0OWtBRC96VHdDVjBPUEpPRDFnQ2U5NElmajQxcVJBdWpZQ1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjAwMTIzCWZpbGU6T3JhLmFwcC50YXIuZ3oKWVRkZnhKa1U2aUF4ZVk0RngwNGkyRFZISXlCR1lqQW5jajZVNDVxSHgybCsyOHh0RDRjTVVJWGJhb2Nua1JHc0p0aFUwakZ1Y2RUODN5SUJTL2NPQ0E9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.7.3/Ora.app.tar.gz"
     }
   }
 }
