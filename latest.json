@@ -1,11 +1,11 @@
 {
-  "version": "0.7.3",
-  "notes": "Kalendář zase funguje. Ora teď pozná i omezené povolení Přidávat pouze a řekne přesně, co v Nastavení přepnout.",
-  "pub_date": "2026-09-12T08:02:03.390Z",
+  "version": "0.7.4",
+  "notes": "Kalendář zase funguje. Ora si teď u macOS správně řekne o přístup ke Kalendáři a Kontaktům, takže se dialog s povolením konečně objeví.",
+  "pub_date": "2026-09-12T08:11:14.388Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRVBscEx4RlNiZHErQTNjcFBGS2c2NXFZMUlQcnNpT2FFbCtaVk1Oei84bG5GY1I3MkM0OWtBRC96VHdDVjBPUEpPRDFnQ2U5NElmajQxcVJBdWpZQ1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjAwMTIzCWZpbGU6T3JhLmFwcC50YXIuZ3oKWVRkZnhKa1U2aUF4ZVk0RngwNGkyRFZISXlCR1lqQW5jajZVNDVxSHgybCsyOHh0RDRjTVVJWGJhb2Nua1JHc0p0aFUwakZ1Y2RUODN5SUJTL2NPQ0E9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.7.3/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRVBnQzByQTBnSXdraTVYY25iSHhDVUlaOFI2N25DRnE3d3pYRTcwWlEyU1JWMFc4Rk5xdU00Ty9DRGZLQjJocG40NmdtcGVuelZwNjZDQXpPSUk4eGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjAwNjc0CWZpbGU6T3JhLmFwcC50YXIuZ3oKbG9SeVY4RmVqNzdteHVRc09OYmQ2ZU9TL2NaWjhQU3ZzZUZ6RUZwbTFyOEV0ZExxRFRxdXBkelNsUitPYURCZFc1cUpOalVvWmpKQmRKejdna3dUQ0E9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.7.4/Ora.app.tar.gz"
     }
   }
 }
