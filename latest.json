@@ -1,11 +1,11 @@
 {
-  "version": "0.7.5",
-  "notes": "Historie v sidebaru je klidnější. Nová konverzace se v ní objeví až po prvním promptu, a rovnou pojmenovaná. Připnuté zůstávají nahoře.",
-  "pub_date": "2026-09-12T08:30:11.387Z",
+  "version": "0.7.6",
+  "notes": "Meta (modely muse) teď umí hledat na internetu. Agent, Badatel i rešerše automatizací s ní dostanou aktuální informace, ne odhad po paměti.",
+  "pub_date": "2026-09-12T09:25:53.387Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUovUFZ1L1ZiK01la1d1Qzl0V3JXY21tcnNVTGpQOGxUeS80eDFnbzd0MXI0UzUxVUlNOTAwWDJERlI3bXFhMFpMd2NkaGRKYzBGOHUwWkE3WUFuNkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjAxODExCWZpbGU6T3JhLmFwcC50YXIuZ3oKRHdNNzc1MHptMy9uSDBLaFJpa2J0RDRLR2xod3ZxelVhODlmREl4TjRlWUE5Q2FXa3dHNElkKzI2aXM5OE9UTm9nN3VBRnc2a0w5MUxTZVIra2pPRGc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.7.5/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU5aQXVIbGZGZHJnVnFjTEhzWlp0RytZaWMvaTBIa1MwdWxQdUVQUjhKeEF3OG1ZM0FoTnZobzV1d2oveTR2WWtVS1VZWFl2TFhuWlU2a3RpVm1SalFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjA1MTUzCWZpbGU6T3JhLmFwcC50YXIuZ3oKM0dsRjI0cFFPM3hnODZhVWtsUGRnUlV3SEVSWlR5OW1obHkrZ2tHVzlMeWNhemVONllvS213SzkrUnZWRnlYdGhwYW1PKzdNaFRMVkxVcERXcVFqQnc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.7.6/Ora.app.tar.gz"
     }
   }
 }
