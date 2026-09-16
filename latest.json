@@ -1,11 +1,11 @@
 {
-  "version": "0.7.7",
-  "notes": "Ora teď pracuje i se zavřeným oknem: po zavření křížkem dál čte maily, spouští automatizace a vyřizuje úkoly. Schránku kontroluje každých 30 sekund. Semafor vypadá a chová se přesně jako v macOS. Mail ve vlákně je čistší – jen tvůj text a přílohy jako ikona s názvem.",
-  "pub_date": "2026-09-16T15:18:16.402Z",
+  "version": "0.7.8",
+  "notes": "• Nové Nastavení ve stylu macOS: sekce v postranním panelu, hledání a automatické ukládání polí\n• Cloudová Ora vidí seznam svých vzpomínek a umí si přečíst celou vzpomínku\n• Limit zpráv platí jen pro lokální model, cloud čte celou konverzaci\n• Odebráno nefunkční nastavení kontextového okna a doporučené modely\n• Smazaná vzpomínka zmizí i z profilu",
+  "pub_date": "2026-09-16T17:10:23.390Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU5sQ3BOVzgralhQK1Vxc0ZHdllrT05WT0ZqbW04ODN4aUNOMFNGNW5uZmkvR2p3R3pEUHFBVWpHajRWN2hHeFRGREI5SEpwSU1YODhPNmczWWdkMHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTcxODk2CWZpbGU6T3JhLmFwcC50YXIuZ3oKSXYxTlhqbllIKzZKSmtwMDVnOGVxWGd3KzVIREozRmJzeXYyRFlmOWthNmEvWGJNKzkvTVN1a09ianZyeE8wZENMZWVad3hDaTVOMU5OSGFheXdnRGc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.7.7/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUd2RUlLTGdMNDFyUjRWY29acFJuQTZEdkxmWnJnc1lVNGRWdXUxMTRGUE9uQUpJWWQyNDNsc29SaE0ySk9GK29BbEV3dllMakZESWhUSVg0MVpKN3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTc4NjIzCWZpbGU6T3JhLmFwcC50YXIuZ3oKVUpSUnhpN05JVmhSQWsreDBQbHN0UG1HQVVCSVYzbTExalJpTldTNXg0dWxZdTB5cjZtRi82WTRrbTVONE5menVQbGlydUtFQVBHOUplZzg2dWRTREE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.7.8/Ora.app.tar.gz"
     }
   }
 }
