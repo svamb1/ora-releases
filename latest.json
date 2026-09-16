@@ -1,11 +1,11 @@
 {
-  "version": "0.7.6",
-  "notes": "Meta (modely muse) teď umí hledat na internetu. Agent, Badatel i rešerše automatizací s ní dostanou aktuální informace, ne odhad po paměti.",
-  "pub_date": "2026-09-12T09:25:53.387Z",
+  "version": "0.7.7",
+  "notes": "Ora teď pracuje i se zavřeným oknem: po zavření křížkem dál čte maily, spouští automatizace a vyřizuje úkoly. Schránku kontroluje každých 30 sekund. Semafor vypadá a chová se přesně jako v macOS. Mail ve vlákně je čistší – jen tvůj text a přílohy jako ikona s názvem.",
+  "pub_date": "2026-09-16T15:18:16.402Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU5aQXVIbGZGZHJnVnFjTEhzWlp0RytZaWMvaTBIa1MwdWxQdUVQUjhKeEF3OG1ZM0FoTnZobzV1d2oveTR2WWtVS1VZWFl2TFhuWlU2a3RpVm1SalFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjA1MTUzCWZpbGU6T3JhLmFwcC50YXIuZ3oKM0dsRjI0cFFPM3hnODZhVWtsUGRnUlV3SEVSWlR5OW1obHkrZ2tHVzlMeWNhemVONllvS213SzkrUnZWRnlYdGhwYW1PKzdNaFRMVkxVcERXcVFqQnc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.7.6/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU5sQ3BOVzgralhQK1Vxc0ZHdllrT05WT0ZqbW04ODN4aUNOMFNGNW5uZmkvR2p3R3pEUHFBVWpHajRWN2hHeFRGREI5SEpwSU1YODhPNmczWWdkMHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTcxODk2CWZpbGU6T3JhLmFwcC50YXIuZ3oKSXYxTlhqbllIKzZKSmtwMDVnOGVxWGd3KzVIREozRmJzeXYyRFlmOWthNmEvWGJNKzkvTVN1a09ianZyeE8wZENMZWVad3hDaTVOMU5OSGFheXdnRGc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.7.7/Ora.app.tar.gz"
     }
   }
 }
