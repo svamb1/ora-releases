@@ -1,11 +1,11 @@
 {
-  "version": "0.7.9",
-  "notes": "Polohové údaje: v Nastavení → Obecné můžeš Oře povolit polohu. Zná pak jen obec, ve které jsi (ne ulici), a použije ji třeba u počasí. Obec je vidět vpravo dole v postranním panelu. Světlý a tmavý režim se nově přepíná v Nastavení → Obecné.",
-  "pub_date": "2026-09-16T20:04:00.404Z",
+  "version": "1.0.0",
+  "notes": "Ora si přečte dokument sama — přílohu z mailu i soubor na disku (PDF, Word, Excel, PowerPoint). Počasí: když neřekneš město, vezme tvoji polohu, nespouští se na každou zmínku o teplotě nebo sněhu a u stejnojmenných i skloňovaných názvů vybere tu správnou obec (dřív „v Praze\" ukazovalo Guam). Poloha nově zná i okres a kraj, takže je jasné, ve které Olešnici jsi.",
+  "pub_date": "2026-09-17T20:25:08.378Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUpKWHBYdmwzN2REeXQ2VGJ5K3NCQnoyUFljd2M1eTJJOHgvU2ZhTTdza0dxcno4YmRWS3F1TWVFZ1hoc2Y0blN2UHNET1lScjNmOWd5RmdNM3JHNmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTg5MDQwCWZpbGU6T3JhLmFwcC50YXIuZ3oKbXJ1dmRyeWRxTEpkeE5RVUVzUjkzS3lqWlB4U1c3QXM0VGpnUTNZSFhHUWIxZnpwVGo5VTRFT0E3WUp3ZTRLQStQc0VVNVNxUG5BWDF6c3BRWngrQlE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v0.7.9/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUZWcVQybC9MWVhQUHZ1Y1BtdWdBUjArNWVSTTRDam9PNzJWRjFMVnQ4K1RwY3NVZXYvK3paUGEvL3NxN2xtLzBSaHJyRmU3bEFlVCtSRE4vK05QbHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Njc2NzA4CWZpbGU6T3JhLmFwcC50YXIuZ3oKNEh0Y1B1RGdUbW40NzRGYTFlaGlJVkhlUXlhNGc4VzExRCthVHA0Z1ZzK0N5QVJBeStJd1VjR2tQQXM0a1VxWGVNVmgvSVM0UkZXVTF4YTkzeFZ6QXc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v1.0.0/Ora.app.tar.gz"
     }
   }
 }
