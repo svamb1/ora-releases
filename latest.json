@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "Odeslaná zpráva vyjede k hornímu okraji a pod ní je celé okno pro odpověď (Chat, Agent, Cowork). Nový chat, konverzace i úkol mají kurzor rovnou v poli pro psaní.",
-  "pub_date": "2026-09-18T19:58:00.467Z",
+  "version": "1.1.0",
+  "notes": "Nový rychlý chat: zkratkou ⌥ Mezerník kdekoliv v Macu vysuneš malý skleněný pill s Orou. Chat i agent, přílohy přetažením, výběr modelu, odpovědi stručné a uložené do historie. Zapíná se v Nastavení → Rychlý chat.",
+  "pub_date": "2026-09-19T19:37:51.469Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRVA1SXVQYkcybFp5N09nbzczN1k3d2JmaExaNlNKREVyM3JFSGp2RzAyekRWbFJxdkFZSkxuWGwvNmZHdXViV3UxcFdzdXZZLzQyRzZpN01PWHp5WVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzYxNDgwCWZpbGU6T3JhLmFwcC50YXIuZ3oKMTZrR3hNWnptTDAwZFQ3cTdaSGhZM3hiczhsWkRNYTBrcnpYQWNOWUY5ZGcyRXVNZVREaHcwM1BwVDB4TG5MK1JVdm9nMC8wVDJzOTBhTnRhbUJmREE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v1.0.1/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUQ3K3FSSlFhQ1Y2Z0ZvUUM1WGJxWWJSMkZ0b3NtSmhzYUg0L1p5N2xTR25Td0svYUN6NUFzNUtRUzFjYTRsUFpPTkZOS2Y3VjBnZHB4SllyTHVVQkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODQ2NjcxCWZpbGU6T3JhLmFwcC50YXIuZ3oKU0haOU9KUGFaS245Y3BoU0NuYlViZzJUMjVaR1FJZE9hK2NtNUFrTDhNVG1vcnpmUFVSVE9UWlhoQmNDeFZ4dGlyb2R4ZEtiVUFzNFI3eWlLZjdhRHc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v1.1.0/Ora.app.tar.gz"
     }
   }
 }
