@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "notes": "Mail od agenta se podepisuje jeho jménem, ne obecným „Cowork“ — ve schránce je hned vidět, který z tvých agentů psal.",
-  "pub_date": "2026-09-21T19:14:21.401Z",
+  "version": "1.2.0",
+  "notes": "Rychlý chat (⌥ Mezerník) se umí podívat na obrazovku — zeptej se na to, co máš před sebou. Ora zařazuje události a připomínky do správného kalendáře a seznamu sama: stačí jí říct, k čemu který slouží („pojďme si nastavit kalendář“), nebo to vyplnit v Nastavení → Kalendář a připomínky. Když se Ora na něco ptá, nabídne odpovědi jako tlačítka — nově i v obyčejném Chatu a v rychlém chatu. Spadlé spojení s cloudem se zkouší znovu a automatizace po probuzení Macu chvíli počkají, než naskočí síť.",
+  "pub_date": "2026-09-23T15:06:51.382Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUg0NWRQSW0wNG41c0swZXQvUlFSN3Joem9MdmxzMGd5MzdSV0ZSV20vbjQ4UmQyRWxIMzJPQURhUCtHaVJuVG9ESzRQeEJzeUYvZkZIYjFKWUlxNndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDE4MDYxCWZpbGU6T3JhLmFwcC50YXIuZ3oKZm0zVnV0cU9manFpRlpHK0pXT3JGeEMwL0dUcFhJWUhoMU1yTWd5Z0l1bFFMbys4NkJSU0FpQXJXaUkycWRRVTV4bVoybkp6b2dqNCtzOEp0cHlXRFE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v1.1.1/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU9mSno4ZVNKMGs1Uk1SdXpzcHVwZ2QyUFBYZHVmUTM5ZldQR0pucVVBQzRZMW5aUEliQkQ0YSt2T0ZWMktlWFNjM0RTSzhYQkt3YW96MGp5L3VWYkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTc2MDExCWZpbGU6T3JhLmFwcC50YXIuZ3oKUm14WFF0RSs5VkI4aExoQWlaZmo3aDBVa1J1OUsxZDJRWlAzU25KQzhVL04yWGhrektpWmNHd0ZQUzZsZnpUSlZnUDZ1RXZ2bEJMbHNzZ2JlU3NLQnc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v1.2.0/Ora.app.tar.gz"
     }
   }
 }
