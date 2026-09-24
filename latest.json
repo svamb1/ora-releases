@@ -1,11 +1,11 @@
 {
-  "version": "2.1.0",
-  "notes": "Nové nastavení agentů. Klik na kartu na stránce Agenti otevře stránku agenta: nahoře jeho tvář a jméno, pod tím záložky Profil, Znalosti a Paměť. Změny se ukládají samy, u znalostí rovnou vidíš, co má agent v každém zadání a kolik to stojí tokenů.",
-  "pub_date": "2026-09-24T14:00:23.393Z",
+  "version": "2.1.1",
+  "notes": "Chat s cloudovým modelem teď sám hledá na internetu. Cowork už místo odpovědi neukazuje jen shrnutí toho, co udělal.",
+  "pub_date": "2026-09-24T18:32:58.391Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUR4NjM4VDBCNGFLUklyemhTdEcvaU4wTkp3OWRpQytJejNQUmpxdngxdndCNUpJWGk4cmJ1M0Z3cmJLQ0I0Q0xtb1VQS01MaS9halRsSlAwT1ZNZHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjU4NDIzCWZpbGU6T3JhLmFwcC50YXIuZ3oKQ2wyaHZWemtTVDBUR1o5dktLMnQ0QkQ5a0tMYlVReGVCQjFrZlg1TTJhNVIvcG5BbjgwMGxnWll6T2VlOWN3dXVMUWY2ZFAwSndJNmE3bWVpQ25YQ2c9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.1.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUYwSnRsZzdpWVBYa2NobXAzSi81ZVV0c0hBUVBoaEFvdTA4N2NpMFkyR0s5M0dUNEE5MDJSbWxjcVpXRFhscm1RdXpNUnR4WmJIb0ozdG85NDIxREFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjc0Nzc4CWZpbGU6T3JhLmFwcC50YXIuZ3oKbnI1UEQxSEY3T2o5MTBDOElZbnlIV2kva3RBN05PZDNyVFBXQnZtR3dOamROUW9pOEh2bzlta1pxQkE5VU8yeDc5MXp4R2NoamNBc2RBOFEyVys5Q1E9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.1.1/Ora.app.tar.gz"
     }
   }
 }
