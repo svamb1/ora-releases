@@ -1,11 +1,11 @@
 {
-  "version": "1.2.0",
-  "notes": "Rychlý chat (⌥ Mezerník) se umí podívat na obrazovku — zeptej se na to, co máš před sebou. Ora zařazuje události a připomínky do správného kalendáře a seznamu sama: stačí jí říct, k čemu který slouží („pojďme si nastavit kalendář“), nebo to vyplnit v Nastavení → Kalendář a připomínky. Když se Ora na něco ptá, nabídne odpovědi jako tlačítka — nově i v obyčejném Chatu a v rychlém chatu. Spadlé spojení s cloudem se zkouší znovu a automatizace po probuzení Macu chvíli počkají, než naskočí síť.",
-  "pub_date": "2026-09-23T15:06:51.382Z",
+  "version": "2.0.0",
+  "notes": "Nové rozvržení Ory. Sidebar je teď pořád stejný: Domů, Agenti, Automatizace, Shards a Dovednosti mají každý svou stránku a historie ukazuje jen sekci, ve které jsi. Na Domů přepínáš Chat · Ora · Cowork přímo v poli pro zadání a v Coworku tam vybereš i agenta nebo Tým. Pod polem je „Čeká na tebe“ — úkoly a Záznamník z telefonu, běžící Cowork a dnešní automatizace. Nová konverzace má zkratku ⌘N.",
+  "pub_date": "2026-09-24T11:13:01.404Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU9mSno4ZVNKMGs1Uk1SdXpzcHVwZ2QyUFBYZHVmUTM5ZldQR0pucVVBQzRZMW5aUEliQkQ0YSt2T0ZWMktlWFNjM0RTSzhYQkt3YW96MGp5L3VWYkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTc2MDExCWZpbGU6T3JhLmFwcC50YXIuZ3oKUm14WFF0RSs5VkI4aExoQWlaZmo3aDBVa1J1OUsxZDJRWlAzU25KQzhVL04yWGhrektpWmNHd0ZQUzZsZnpUSlZnUDZ1RXZ2bEJMbHNzZ2JlU3NLQnc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v1.2.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUR4aENWQkNqaUtuNXJLbmNSdDNyU1NlSC9mRm9rbWxMeXppMTNyV0Nobnh5M2hhUlo2ZXVCSFhmT0dyMXo1WnhqbFVpQkIvc0xDRlIxUC85a2F6UFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjQ4MzgxCWZpbGU6T3JhLmFwcC50YXIuZ3oKYTRmMjRhRnczckpvU0g5L0pIYnc1UmlDdTNMa1JldnlvcFJTL2hMeitSYjJTeW9FcjNselpaVk1VelZTUDFiODgzWWowV0UxcnhZUk55WjhPVFI1QVE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.0.0/Ora.app.tar.gz"
     }
   }
 }
