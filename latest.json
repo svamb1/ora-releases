@@ -1,11 +1,11 @@
 {
-  "version": "2.3.0",
-  "notes": "Nová dovednost Jízdní řády: spoje vlakem, autobusem a MHD po celé ČR s mapou cesty a časem, kdy vyjít. Po zapnutí v Dovednostech se stáhnou jízdní řády (asi 160 MB).",
-  "pub_date": "2026-09-25T09:05:09.405Z",
+  "version": "2.4.0",
+  "notes": "Notifikace s proklikem, naplánované úkoly (Ora i agenti splní úkol později — v čas, nebo až něco nastane) a chytřejší hledání souborů podle názvu i obsahu.",
+  "pub_date": "2026-09-25T17:40:19.391Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUI1VW1zZFFvTnhTVDc3Szl0ZVlGYVZRWHRjQmxsdjBxMzJMQ3dWWEtmTnVUQ1M4WXNGRDkvUkZsQ0pZdE92dEh2YnQwc0hxV1dvM3RBZWs1SjdEb2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzI3MTA5CWZpbGU6T3JhLmFwcC50YXIuZ3oKQ0lWaThHdnNoY1VtL1pvd1ZaSmJkTlFkUzAwVldvS3Vjdjd1TG9XNDdYcVh1Ull5VjFVcXNPTkVMT3l6Uk93QVNKRmtUb0ExYVlycWhuOUN1NmgwQlE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.3.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUhJNWd6VXJNRVVIT3JUdWpkWWxSQkJNOFZ0Y0Z6Sk9KTmNVbXo2aUxDSHN4MHhSM2tsZzVBandEaGNpRkpPZkxPNVpTV2M3NXZuT2hibmhoWGlEdEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzU4MDE5CWZpbGU6T3JhLmFwcC50YXIuZ3oKaUdNcmFwaXJXQnhQem51ZW0xNGg0S0liSmxiUi9wTzRTWHhrYjhWTlRVZXdUOGRBLzJzR3ZsMFRJUFFZaDBvcGZkbDlSOTJTRUFDTWFrU3dyQUtMQlE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.4.0/Ora.app.tar.gz"
     }
   }
 }
