@@ -1,11 +1,11 @@
 {
-  "version": "2.1.2",
-  "notes": "Gmail se připojuje heslem aplikace a už nevyprší po týdnu. Po aktualizaci ho jednou připoj v Nastavení → Gmail.",
-  "pub_date": "2026-09-24T19:31:05.397Z",
+  "version": "2.2.0",
+  "notes": "Nová dovednost Mapy.com: Ora naplánuje trasu pěšky, autem nebo na kole a ukáže ji na mapě přímo v chatu. API klíč vložíš v Nastavení → Mapy.com.",
+  "pub_date": "2026-09-25T08:00:05.398Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUZ6bTN1UlhuaDZEWUFYZ1VsNjdVR2tZYmpydjQ0WmtNbDNJS3BCY2QxZC91S3hkbVY2MU51alRoOVpNcm5NSExPdHkyVzVqTU1lMy9UcmVzUnIyMVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjc4MjY1CWZpbGU6T3JhLmFwcC50YXIuZ3oKbG9adlpiUzFTdnpKaWJMMERVZmUvTDVFVDJPNE1Hc0JhQm8ycm0vM0hybWNEaWdjK055M2t6YVJad24zc2pOMTF2ZXU1R1NRY1ovZ2xMRE9rc1dLQXc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.1.2/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRVAvNzNad2hoZHNwUzh4RzQyUVpEdkJwOHpaM0NhNDMzWWxPUXRxNk53WHQzaHB3eHRBL2dtSGNNNllxQWVtVExITmJJSUZJU2JPQ3pGeWxRWDNPamdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzIzMjA1CWZpbGU6T3JhLmFwcC50YXIuZ3oKdmRBQlBKM2dFSGhRUzdTeXhUalg3OENnbDRkd1JKVFF3UWYySWdQSGpZSVFxbXdHWnVsZ1dieDVSUWtkWFFiMmhBcVRkcWROOVAyNGtQR2pBV3BNQmc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.2.0/Ora.app.tar.gz"
     }
   }
 }
