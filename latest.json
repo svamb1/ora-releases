@@ -1,11 +1,11 @@
 {
-  "version": "2.2.0",
-  "notes": "Nová dovednost Mapy.com: Ora naplánuje trasu pěšky, autem nebo na kole a ukáže ji na mapě přímo v chatu. API klíč vložíš v Nastavení → Mapy.com.",
-  "pub_date": "2026-09-25T08:00:05.398Z",
+  "version": "2.3.0",
+  "notes": "Nová dovednost Jízdní řády: spoje vlakem, autobusem a MHD po celé ČR s mapou cesty a časem, kdy vyjít. Po zapnutí v Dovednostech se stáhnou jízdní řády (asi 160 MB).",
+  "pub_date": "2026-09-25T09:05:09.405Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRVAvNzNad2hoZHNwUzh4RzQyUVpEdkJwOHpaM0NhNDMzWWxPUXRxNk53WHQzaHB3eHRBL2dtSGNNNllxQWVtVExITmJJSUZJU2JPQ3pGeWxRWDNPamdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzIzMjA1CWZpbGU6T3JhLmFwcC50YXIuZ3oKdmRBQlBKM2dFSGhRUzdTeXhUalg3OENnbDRkd1JKVFF3UWYySWdQSGpZSVFxbXdHWnVsZ1dieDVSUWtkWFFiMmhBcVRkcWROOVAyNGtQR2pBV3BNQmc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.2.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUI1VW1zZFFvTnhTVDc3Szl0ZVlGYVZRWHRjQmxsdjBxMzJMQ3dWWEtmTnVUQ1M4WXNGRDkvUkZsQ0pZdE92dEh2YnQwc0hxV1dvM3RBZWs1SjdEb2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzI3MTA5CWZpbGU6T3JhLmFwcC50YXIuZ3oKQ0lWaThHdnNoY1VtL1pvd1ZaSmJkTlFkUzAwVldvS3Vjdjd1TG9XNDdYcVh1Ull5VjFVcXNPTkVMT3l6Uk93QVNKRmtUb0ExYVlycWhuOUN1NmgwQlE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.3.0/Ora.app.tar.gz"
     }
   }
 }
