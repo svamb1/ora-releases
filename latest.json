@@ -1,11 +1,11 @@
 {
-  "version": "2.4.0",
-  "notes": "Notifikace s proklikem, naplánované úkoly (Ora i agenti splní úkol později — v čas, nebo až něco nastane) a chytřejší hledání souborů podle názvu i obsahu.",
-  "pub_date": "2026-09-25T17:40:19.391Z",
+  "version": "2.4.1",
+  "notes": "Naplánované úkoly jako dlaždice na Domů s detailem a historií, stručnější notifikace, pole pro psaní zůstává na místě, oprava slitého textu po hledání na webu.",
+  "pub_date": "2026-09-25T18:53:07.419Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUhJNWd6VXJNRVVIT3JUdWpkWWxSQkJNOFZ0Y0Z6Sk9KTmNVbXo2aUxDSHN4MHhSM2tsZzVBandEaGNpRkpPZkxPNVpTV2M3NXZuT2hibmhoWGlEdEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzU4MDE5CWZpbGU6T3JhLmFwcC50YXIuZ3oKaUdNcmFwaXJXQnhQem51ZW0xNGg0S0liSmxiUi9wTzRTWHhrYjhWTlRVZXdUOGRBLzJzR3ZsMFRJUFFZaDBvcGZkbDlSOTJTRUFDTWFrU3dyQUtMQlE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.4.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUNMR2dHdzN2czEzQU8xWGREeVA3VDcwKzYwK0p3TEIxNzRaMmpqdldIcXRUNmFzWUpYYlIyUE5lLytWTWFzYkM5WHFsSFBRSkVNNmZubGEvdkxFNkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzYyMzg3CWZpbGU6T3JhLmFwcC50YXIuZ3oKenlPSFZ4WXkzUmlHaGxScGJna2w3MDdIc3N1ZGROWklGU3IxKzFMOGZjM1ppMGxaTmJucUFqU3I4OHRYY0dUejBGZG81Y1B2Z3V0T2s3UXoxOWF6Q2c9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.4.1/Ora.app.tar.gz"
     }
   }
 }
