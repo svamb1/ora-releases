@@ -1,11 +1,11 @@
 {
-  "version": "2.4.1",
-  "notes": "Naplánované úkoly jako dlaždice na Domů s detailem a historií, stručnější notifikace, pole pro psaní zůstává na místě, oprava slitého textu po hledání na webu.",
-  "pub_date": "2026-09-25T18:53:07.419Z",
+  "version": "2.4.2",
+  "notes": "Oprava: agent s pamětí (např. Analytik) už nezapíše odpověď jen do paměti — výsledek vždy napíše do vlákna.",
+  "pub_date": "2026-09-26T19:58:40.425Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUNMR2dHdzN2czEzQU8xWGREeVA3VDcwKzYwK0p3TEIxNzRaMmpqdldIcXRUNmFzWUpYYlIyUE5lLytWTWFzYkM5WHFsSFBRSkVNNmZubGEvdkxFNkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzYyMzg3CWZpbGU6T3JhLmFwcC50YXIuZ3oKenlPSFZ4WXkzUmlHaGxScGJna2w3MDdIc3N1ZGROWklGU3IxKzFMOGZjM1ppMGxaTmJucUFqU3I4OHRYY0dUejBGZG81Y1B2Z3V0T2s3UXoxOWF6Q2c9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.4.1/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUZ6L3V6QksvM2I4RWoybncrdisyNFpEOU9PS0lWOGRMbXRNd2FwT1I0bVBVS29ETTZPVjF0YWpZd1BDVi90MVdYSHAxMW1wN1VrSlZXQVhIclg3UkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDUyNzIwCWZpbGU6T3JhLmFwcC50YXIuZ3oKWGxKRUVNc21BaFk5QTh6K0lLZnR2QWpiRHhnbGdtRksrU1ZiUDNJblJkVjJKNGljUThkWmt6b1dsZXQrUmNXTEVPZjlGNlR6dG5YYmw0bUtNNCtERGc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.4.2/Ora.app.tar.gz"
     }
   }
 }
