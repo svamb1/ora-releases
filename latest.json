@@ -1,11 +1,11 @@
 {
-  "version": "2.6.0",
-  "notes": "Nová sekce Studium: sešity pro předměty, do kterých nahraješ přednášky, zápisky a skripta. Ora z nich připravuje kvízy, kartičky, poznávačky a zkouškové testy, hlídá, co umíš a co ti nesedí, a připomene opakování. Každý sešit má vlastní cloudový model a rozhovor s ním vychází jen z tvých materiálů. Soubor do sešitu uloží Ora i z mailu.",
-  "pub_date": "2026-10-01T18:16:14.427Z",
+  "version": "2.7.0",
+  "notes": "Finder umí se soubory pracovat: přejmenovat, přesunout, kopírovat, zabalit do ZIPu a smazat do Koše (s možností vrátit), zjistit velikost a kde je soubor uložený. Mezerník na nalezeném souboru ukáže náhled jako ve Finderu. Cloudové modely dostanou přiložené soubory celé a Cowork zase ukazuje průběh přemýšlení.",
+  "pub_date": "2026-10-02T18:57:42.509Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRVBZYklpeUZ0eERxNnlhRmxWRGRtMjM0eURvNitZZ01lRkVSOUtOVC9vMHptNnBENUhvbWlXVHJYeCsrdmlVbkkwWk1aZG5hM1AvUG52WXQreTF1THdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODc4NTc0CWZpbGU6T3JhLmFwcC50YXIuZ3oKeU9HY0ZxeU1XOG1MRVNZTW5wSjJyeFZSakNUbm5WV2lRSGUyMi9sTXltQVpNY1g4Um9RdVFtc0JmejBEN1I2YTFQUmNLcENsby9uYUtlM3RuQzQ3QWc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.6.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU5kaDFhYXR2TWFVcUFuVTRhZ2tsdUhlcWJlcDlYRXBiNUx4YXFvMkFTWU9tUGRuWm1NcDZRNFg4WWV6ektIK3BmL0UvRGZqZlRSUmEyNU9DeW95dGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTY3NDYyCWZpbGU6T3JhLmFwcC50YXIuZ3oKTDQrcnVJTGdhMUNqOFNIdkl6cEcxYkJkUWdFKzZqMi9sSTVDZExRaFEzbW5waUxRekQyNGRuT3l4VVk4a1dXTUpzdkVHY0ZqVVZJa3hWSGVoYVhoQXc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.7.0/Ora.app.tar.gz"
     }
   }
 }
