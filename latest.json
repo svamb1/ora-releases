@@ -1,11 +1,11 @@
 {
-  "version": "2.8.0",
-  "notes": "Proaktivní Ora: hlídá poštu, kalendář a připomínky a navrhuje, co s nimi (koš, kalendář, odpověď na kartě mailu). Pošta umí Gmail i Seznam a víc adres s výchozí. Poznámky se už neotevírají, přesnější poloha, tlačítko Nahlásit chybu.",
-  "pub_date": "2026-10-05T18:14:20.440Z",
+  "version": "2.8.1",
+  "notes": "Návrh od Ory z oznámení se otevře rovnou s Orou, a když jí napíšeš, ví, o kterých mailech je řeč.",
+  "pub_date": "2026-10-05T18:52:59.429Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUxXZnBYaWo5UjVxdk4zbU5CTk9PUENsVlBLR3pHL0dHRk9KR2N3MzVLUUNicklCZDVoRUZLL2xYMDk3VmYyVjBHc2tyVE9MQ3pmeU5PV2hnb0wrK3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjI0MDYwCWZpbGU6T3JhLmFwcC50YXIuZ3oKc05RRkVmSVAyN0dJYzB2bkF3WUNIU0l0RzFLK0Q2Q2p1Y3I5MGtOK2xKSG1Ib1c4M1ZTTSt6SFhGc3lxNWZyUVVUbXQrcFRLYkp1N1dNYk5DV1BmQ1E9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.8.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUVTcW96Wnh1YVVYSnAzTUsyQm8wbEdSU3Fsam1yVmpIbG5qSlB3MDBlQVBzVnV6UlNaaGNXMHlVTFdDZFVadkdraXRsYWZWRnRla1FtNkJSQ082aUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjI2Mzc5CWZpbGU6T3JhLmFwcC50YXIuZ3oKcUROOE9NNVE1aHZJOWIwYlpPbnNRTU0rbVB4MGxRSm5ibTllbHpuYXNTV0g5K2d1QlZYTDZjd1VPbC9KbnNCZ2xVdEtYVEVHd3VrZy9kN2JZM1lxRGc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.8.1/Ora.app.tar.gz"
     }
   }
 }
