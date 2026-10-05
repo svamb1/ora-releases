@@ -1,11 +1,11 @@
 {
-  "version": "2.8.1",
-  "notes": "Návrh od Ory z oznámení se otevře rovnou s Orou, a když jí napíšeš, ví, o kterých mailech je řeč.",
-  "pub_date": "2026-10-05T18:52:59.429Z",
+  "version": "2.8.2",
+  "notes": "Nový loader odpovědi: spirála loga se rozpadne do kroužku teček a stáhne do bodu.",
+  "pub_date": "2026-10-05T19:49:45.490Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUVTcW96Wnh1YVVYSnAzTUsyQm8wbEdSU3Fsam1yVmpIbG5qSlB3MDBlQVBzVnV6UlNaaGNXMHlVTFdDZFVadkdraXRsYWZWRnRla1FtNkJSQ082aUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjI2Mzc5CWZpbGU6T3JhLmFwcC50YXIuZ3oKcUROOE9NNVE1aHZJOWIwYlpPbnNRTU0rbVB4MGxRSm5ibTllbHpuYXNTV0g5K2d1QlZYTDZjd1VPbC9KbnNCZ2xVdEtYVEVHd3VrZy9kN2JZM1lxRGc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.8.1/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUNmZVVjN01mVlFiY2sxTWQ5QTZIUkR0aE42YmlCNjFHOVZGZUloYTdYbVFxSU1sOHY3citmZTlqWmU3dEkycGRKaWdydnRDOVBoQkZnWk9NN0pHV3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjI5Nzg1CWZpbGU6T3JhLmFwcC50YXIuZ3oKR3cwL1kvRHlhTGVqeXpCWHd6VUdKNXlXaGNVdHhQVjNLUWJ4cTArWjJWeU9DejZMOXRCM2JXSjJnaGxZenpmUG9HdkY0QWhLTzA2dVc0VmlLVGxDRGc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.8.2/Ora.app.tar.gz"
     }
   }
 }
