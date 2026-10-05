@@ -1,11 +1,11 @@
 {
-  "version": "2.7.0",
-  "notes": "Finder umí se soubory pracovat: přejmenovat, přesunout, kopírovat, zabalit do ZIPu a smazat do Koše (s možností vrátit), zjistit velikost a kde je soubor uložený. Mezerník na nalezeném souboru ukáže náhled jako ve Finderu. Cloudové modely dostanou přiložené soubory celé a Cowork zase ukazuje průběh přemýšlení.",
-  "pub_date": "2026-10-02T18:57:42.509Z",
+  "version": "2.8.0",
+  "notes": "Proaktivní Ora: hlídá poštu, kalendář a připomínky a navrhuje, co s nimi (koš, kalendář, odpověď na kartě mailu). Pošta umí Gmail i Seznam a víc adres s výchozí. Poznámky se už neotevírají, přesnější poloha, tlačítko Nahlásit chybu.",
+  "pub_date": "2026-10-05T18:14:20.440Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU5kaDFhYXR2TWFVcUFuVTRhZ2tsdUhlcWJlcDlYRXBiNUx4YXFvMkFTWU9tUGRuWm1NcDZRNFg4WWV6ektIK3BmL0UvRGZqZlRSUmEyNU9DeW95dGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTY3NDYyCWZpbGU6T3JhLmFwcC50YXIuZ3oKTDQrcnVJTGdhMUNqOFNIdkl6cEcxYkJkUWdFKzZqMi9sSTVDZExRaFEzbW5waUxRekQyNGRuT3l4VVk4a1dXTUpzdkVHY0ZqVVZJa3hWSGVoYVhoQXc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.7.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUxXZnBYaWo5UjVxdk4zbU5CTk9PUENsVlBLR3pHL0dHRk9KR2N3MzVLUUNicklCZDVoRUZLL2xYMDk3VmYyVjBHc2tyVE9MQ3pmeU5PV2hnb0wrK3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjI0MDYwCWZpbGU6T3JhLmFwcC50YXIuZ3oKc05RRkVmSVAyN0dJYzB2bkF3WUNIU0l0RzFLK0Q2Q2p1Y3I5MGtOK2xKSG1Ib1c4M1ZTTSt6SFhGc3lxNWZyUVVUbXQrcFRLYkp1N1dNYk5DV1BmQ1E9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.8.0/Ora.app.tar.gz"
     }
   }
 }
