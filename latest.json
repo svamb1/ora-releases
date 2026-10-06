@@ -1,11 +1,11 @@
 {
-  "version": "2.8.3",
-  "notes": "Ora už nekontroluje poštu, když Mac spí se zaklapnutým víkem. Nová sekce „Ora udělala sama“ ukazuje maily smazané podle tvých pravidel (24 hodin, s možností vrátit).",
-  "pub_date": "2026-10-06T11:29:34.453Z",
+  "version": "2.8.4",
+  "notes": "V Coworku jsou u odeslané zprávy vidět přiložené fotky a soubory a dá se zkopírovat; „pracuje…“ je nad průběhem myšlení. Klik na oznámení s návrhem otevře jen rychlý chat, ne celé okno.",
+  "pub_date": "2026-10-06T19:27:41.441Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRVBGSWVHbWlKNEsvbHZRQVdJWDF6Zm0xUlNqZDZjZ0pkdXdReFc3MmxsTHJkNDVsU3IrY3FUeXJXVTJQeENPMjhzSXM4S3lpMGFHUE9JWkNrbFplV2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg2MTc0CWZpbGU6T3JhLmFwcC50YXIuZ3oKMndYMlJsN1JNRHVTS3g3cmdmZFlDZDNZSEZUOU9uWURpWDNXeitGQlljOUE4QkppbEMzRzFVR291OGJ3TkZ0REVXdnZ6cUZWVDJDWkJFVGhjaXNPQlE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.8.3/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUNmdFBvd0Z1ZG5VZHF6dGtqbDhOQS9XMUIvNGNDYkVmK0ZTemdxNzBNanR2MjlDK1o0QzQvd1MrMWFwMXplYUxQc3NzWjFvUHI2RUhLc1UyOWNRUEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzE0ODYxCWZpbGU6T3JhLmFwcC50YXIuZ3oKckwzdG8yeU1Ib09tVGdvZlp0blhwTHhqSXhwMTR5c05YMEdpMWNuY2EvQldORCtSYk9ueTZrOHdHWmNObVcrVHhnQ1JhSEtsdW12MHRDNG84cmo5QkE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.8.4/Ora.app.tar.gz"
     }
   }
 }
