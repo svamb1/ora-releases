@@ -1,11 +1,11 @@
 {
-  "version": "2.8.4",
-  "notes": "V Coworku jsou u odeslané zprávy vidět přiložené fotky a soubory a dá se zkopírovat; „pracuje…“ je nad průběhem myšlení. Klik na oznámení s návrhem otevře jen rychlý chat, ne celé okno.",
-  "pub_date": "2026-10-06T19:27:41.441Z",
+  "version": "2.9.0",
+  "notes": "Studium: nová záložka Šablony — kvíz, kartičky, poznávačku i zkouškový test si vytvoříš ze všech materiálů nebo z jednoho souboru, případně si o ně řekneš v konverzaci. Poznávačka zvládá prezentace s fotkami a názvy (řád, čeleď, druh) a ptá se postupně na každý. Konverzaci se sešitem otevřeš tlačítkem vedle výběru modelu, z jednoho materiálu vznikají nejvýš tři témata.",
+  "pub_date": "2026-10-08T09:46:43.423Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUNmdFBvd0Z1ZG5VZHF6dGtqbDhOQS9XMUIvNGNDYkVmK0ZTemdxNzBNanR2MjlDK1o0QzQvd1MrMWFwMXplYUxQc3NzWjFvUHI2RUhLc1UyOWNRUEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzE0ODYxCWZpbGU6T3JhLmFwcC50YXIuZ3oKckwzdG8yeU1Ib09tVGdvZlp0blhwTHhqSXhwMTR5c05YMEdpMWNuY2EvQldORCtSYk9ueTZrOHdHWmNObVcrVHhnQ1JhSEtsdW12MHRDNG84cmo5QkE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.8.4/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUNrdXVMUm1KYkMxTitqTE5ESERwMUxvNG82OFh2cDIxYXh3K1RVZzBadmp3N3dMT0pLRWtPNWpCVzlGNW4ydEx3WXFtdFE4Z2phbzllT3IxM3A4bEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDUyODAzCWZpbGU6T3JhLmFwcC50YXIuZ3oKY05yaDZRRkVhZnRMUVArM25GU2NoN29NeVNBbENyZ1IxVDhOUnR4UlhzalFYYXdUNi8yWWhtTXczcjd6R3o5amhZYmh5QStoKzZsakxEajZDaFV3QkE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.9.0/Ora.app.tar.gz"
     }
   }
 }
