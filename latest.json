@@ -1,11 +1,11 @@
 {
-  "version": "2.9.0",
-  "notes": "Studium: nová záložka Šablony — kvíz, kartičky, poznávačku i zkouškový test si vytvoříš ze všech materiálů nebo z jednoho souboru, případně si o ně řekneš v konverzaci. Poznávačka zvládá prezentace s fotkami a názvy (řád, čeleď, druh) a ptá se postupně na každý. Konverzaci se sešitem otevřeš tlačítkem vedle výběru modelu, z jednoho materiálu vznikají nejvýš tři témata.",
-  "pub_date": "2026-10-08T09:46:43.423Z",
+  "version": "2.10.0",
+  "notes": "Proaktivní Ora: ranní přehled po otevření Macu (i mailem), závazky z pošty v Připomínkách, zkoušky z kalendáře ve Studiu, učení z tvých reakcí a Ora, která zná celou appku. Nově i školní Outlook přes Apple Mail.",
+  "pub_date": "2026-10-08T19:16:54.443Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUNrdXVMUm1KYkMxTitqTE5ESERwMUxvNG82OFh2cDIxYXh3K1RVZzBadmp3N3dMT0pLRWtPNWpCVzlGNW4ydEx3WXFtdFE4Z2phbzllT3IxM3A4bEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDUyODAzCWZpbGU6T3JhLmFwcC50YXIuZ3oKY05yaDZRRkVhZnRMUVArM25GU2NoN29NeVNBbENyZ1IxVDhOUnR4UlhzalFYYXdUNi8yWWhtTXczcjd6R3o5amhZYmh5QStoKzZsakxEajZDaFV3QkE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.9.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRURZc1dIRnFZK3ZNeTFXSVo5dWo0aXpZYlZXMi9GV1FGL2ZZVlB2a1lHZXFxaGVpd25VSnVXc094Z2VZd3QwOGkwM0VrOXk4b3cvSVhXbjl6WEt1MEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDg3MDE0CWZpbGU6T3JhLmFwcC50YXIuZ3oKelFtVHpjUjBoQXpKSkc0cmxVbzFNRmRoYjBBdVNESEU3dlJybndLTUgxajRpOGxnc1RaOUtpeGxIb3VtQmUySVkwMlFoUjJxQlRBbjVaNzFiWjE5Q0E9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.10.0/Ora.app.tar.gz"
     }
   }
 }
