@@ -1,11 +1,11 @@
 {
-  "version": "2.10.0",
-  "notes": "Proaktivní Ora: ranní přehled po otevření Macu (i mailem), závazky z pošty v Připomínkách, zkoušky z kalendáře ve Studiu, učení z tvých reakcí a Ora, která zná celou appku. Nově i školní Outlook přes Apple Mail.",
-  "pub_date": "2026-10-08T19:16:54.443Z",
+  "version": "2.11.0",
+  "notes": "Plynulý pohyb v celé appce: tlačítka se při stisku poddají, nabídky a okna se otevírají a zavírají plynule, výběr v sidebaru a přepínači Chat · Ora · Cowork klouže, stránky se prolínají, odpověď se vynořuje po slovech a odeslaná zpráva vyjede z tlačítka. Rychlý chat se plynule rozsvítí a zhasne.",
+  "pub_date": "2026-10-09T20:27:25.436Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRURZc1dIRnFZK3ZNeTFXSVo5dWo0aXpZYlZXMi9GV1FGL2ZZVlB2a1lHZXFxaGVpd25VSnVXc094Z2VZd3QwOGkwM0VrOXk4b3cvSVhXbjl6WEt1MEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDg3MDE0CWZpbGU6T3JhLmFwcC50YXIuZ3oKelFtVHpjUjBoQXpKSkc0cmxVbzFNRmRoYjBBdVNESEU3dlJybndLTUgxajRpOGxnc1RaOUtpeGxIb3VtQmUySVkwMlFoUjJxQlRBbjVaNzFiWjE5Q0E9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.10.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUFZUS93cDJpc3QvNG5tN3kyNDRldGx1ckNKcmY5eVMxNVFxMGFYL0FCc2JWR0lzOFFzcVFpQUcwVzA5MFpWbm1yNHd3U2FFaVkvZTZuazVBWXBCRnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTc3NjQ1CWZpbGU6T3JhLmFwcC50YXIuZ3oKVXVoQXF3eENRSGx4Z1lLQzlvSU1mNUVNdlM3WGhqTGZDTzhsMXNrenhMYlBseWxqdXdzeXphZi9GbjJ4MDl0T2VGdXY0bkRsTjkzTitubnkzdzM5QlE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.11.0/Ora.app.tar.gz"
     }
   }
 }
