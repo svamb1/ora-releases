@@ -1,11 +1,11 @@
 {
-  "version": "2.11.0",
-  "notes": "Plynulý pohyb v celé appce: tlačítka se při stisku poddají, nabídky a okna se otevírají a zavírají plynule, výběr v sidebaru a přepínači Chat · Ora · Cowork klouže, stránky se prolínají, odpověď se vynořuje po slovech a odeslaná zpráva vyjede z tlačítka. Rychlý chat se plynule rozsvítí a zhasne.",
-  "pub_date": "2026-10-09T20:27:25.436Z",
+  "version": "2.11.1",
+  "notes": "Ora o sobě mluví vždy v ženském rodě a přihlášení k Seznamu se po krátkém výpadku samo zopakuje. Koncept mailu bez předmětu už nedostane jako předmět oslovení.",
+  "pub_date": "2026-10-11T09:47:24.444Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUFZUS93cDJpc3QvNG5tN3kyNDRldGx1ckNKcmY5eVMxNVFxMGFYL0FCc2JWR0lzOFFzcVFpQUcwVzA5MFpWbm1yNHd3U2FFaVkvZTZuazVBWXBCRnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTc3NjQ1CWZpbGU6T3JhLmFwcC50YXIuZ3oKVXVoQXF3eENRSGx4Z1lLQzlvSU1mNUVNdlM3WGhqTGZDTzhsMXNrenhMYlBseWxqdXdzeXphZi9GbjJ4MDl0T2VGdXY0bkRsTjkzTitubnkzdzM5QlE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.11.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRVBnbTh5STFRQmYwYWF0azNqTXJ0eGx0T3h0SUhzYU5lM2cvWEluTmxLSFBGdXNESWRZRG8wSit4TW16YlB3dTVhZmgrK0JPd3gwc05QaEw0Z0V5UVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzEyMDQ0CWZpbGU6T3JhLmFwcC50YXIuZ3oKUElHdDhNNXdFaHJxS2t4YXhaM1RSS0J2TjRTNjAwSjQwYzlMY1hKc3FCKzJJWlZzQzRlTC95WDFTaU5IclZXbjNDdjFsaCtWbFR2b2owVlNZek9GRFE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.11.1/Ora.app.tar.gz"
     }
   }
 }
