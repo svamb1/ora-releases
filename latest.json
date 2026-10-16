@@ -1,11 +1,11 @@
 {
-  "version": "2.13.0",
-  "notes": "Ora se umí zeptat na víc věcí najednou: místo jedné otázky ukáže kartu s čipy, polem pro vlastní odpověď a tlačítkem Pokračovat. Funguje v Oře, Chatu, Coworku i v rychlém chatu.",
-  "pub_date": "2026-10-16T18:28:32.439Z",
+  "version": "2.14.0",
+  "notes": "Ranní přehled se otevírá jako konverzace s Orou: přehled je první zprávou i s tlačítky a pod ním se dá o dni rovnou mluvit. Odpověď na ranní mail spadne do téže konverzace.",
+  "pub_date": "2026-10-16T18:36:55.449Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUhLUktzdVIzWmtYTUpDS0l3bUtObjBLMnd0Yzg0ZDVEa1NMU2FwSXlrZHlGZDRtZi9XaGtjNmIveVFrU3hXdWxhczRCSEd5V0hIZXp5SDNqSjhuelFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTc1MzEyCWZpbGU6T3JhLmFwcC50YXIuZ3oKVjg5YnltcFdFVE1LTkNBckVNOWhsZkZEZnk3U0RqYWtwVm9LTy9wbjNIdkZsZDVJSE8xa016aVJmcjd4bk9oVG5TSzNhbldpTmhrdlRadXlQQnZ5Qmc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.13.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUNkYkp1ZVpmczZHaWR2R2JYZlhZQ0N0cGZUTFpLQ2JlclNhdXBRUERZeVFpY0loUCt3SDZCWDd6NjlJKzloa0JPM2tETWFySm1LK0ZUMkZ0bjFVdlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTc1ODE1CWZpbGU6T3JhLmFwcC50YXIuZ3oKbmpaSm4rZEdyUlpNbE1ocnlPdEJWTEVIbUFZell1cmxPZUp3cHJIRUFXVFV2c1JEY3dFdVlsUWhjR2hNQTlUQTgvMGNScDJyNDJId2hpYXBMallVQ0E9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.14.0/Ora.app.tar.gz"
     }
   }
 }
