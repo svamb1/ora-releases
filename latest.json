@@ -1,11 +1,11 @@
 {
-  "version": "2.11.2",
-  "notes": "Ora teď v kalendáři vidí i místo a poznámky události (třeba kde je sraz) a umí si prohlédnout fotku, kterou jí pošleš mailem.",
-  "pub_date": "2026-10-16T15:15:00.428Z",
+  "version": "2.12.0",
+  "notes": "Shards jsou zrušené — na persony jsou agenti. Cowork ukazuje průběh čistě: během práce pod loaderem, po doběhnutí jeden řádek „Pracováno…“, který jde rozkliknout.",
+  "pub_date": "2026-10-16T18:13:09.440Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUdUS3BMMVZuSEVxSDI4OWYzTjF5eW9LMFJTUUJIVXRrSGFZSEZCWGl2dHVyOFA4YjBHM0dQYlp2TUZYUnBFLzFYUHp6V0xLdVU5QjhNQ2M4K0NhSXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTYzNzAwCWZpbGU6T3JhLmFwcC50YXIuZ3oKQ1UwMGFGem5hbTNScGFmZTlkbFVaa2NDbDZBa3F4WEV1dmdYSEdKek9aWWtBWE1DQW9PbVVuZGhKTmNXR0cyV29OMFB6NU1qZnltbkhwdDZ3and2RFE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.11.2/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUwyYVFFdDRqQ2R3RDN4U3NucVVqcElYZ1QwRzltQXFQMUxkcmI5bHVkaXZtQ2I2NEJqWEtGOGRkMDJacEdnTDBUWjZ2aDRGUnhwbGd4V2dsVkZCQ0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTc0Mzg5CWZpbGU6T3JhLmFwcC50YXIuZ3oKQlZMbTdmaW84TkhSU24waGpKQUhZRnMrNWpXeHdkZmFwNHhHeGJ0b3c2Y0hrc0dJaVpRQlJHZlVieGpIYzVYY2ZvcGx1Z1M5Um5CMm1kWmVGTmw0QVE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.12.0/Ora.app.tar.gz"
     }
   }
 }
