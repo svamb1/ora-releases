@@ -1,11 +1,11 @@
 {
-  "version": "2.15.0",
-  "notes": "Grafy přímo v odpovědích: Ora i agenti umí do textu vložit sloupcový, spojnicový, svíčkový, krabicový, koláčový, prstencový a další graf. Najetím myší se ukáže hodnota, přepínač Tabulka ukáže čísla.",
-  "pub_date": "2026-10-16T18:59:39.434Z",
+  "version": "2.16.0",
+  "notes": "Propojené znalosti agentů: soubor, který průběžně upravuješ (Excel, Word, PowerPoint), můžeš agentovi propojit a on pokaždé čte jeho aktuální stav. Když soubor nejde otevřít, čte poslední známý stav; u velkého sešitu si přečte jen potřebný list.",
+  "pub_date": "2026-10-16T19:54:23.452Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUp6VXlCTG92L1FUeEM3TlhLYjVlQUR4YkpQczN2UngrMWRRdkd2eTYvWHd0S0dxeHhzcEswRGdlNU80YmFDTVVrWlNEaExub3ZrWWx4SVJBSFFXckE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTc3MTc5CWZpbGU6T3JhLmFwcC50YXIuZ3oKZEYwbFI0UzhZUHdvQzNPYkVvZ0xISklhb1Bndk9TS3JmUElROXVOeUpNeisrSWVYTk5GbDgzbHRYWlZPUjZCc2JLMkNHVWkzSGhxOThUaEU1T1MxQWc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.15.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUthV0prcnFVYnI3dFFhc0R1TGdRdVoxUnZwOWFKaFYycmtrR0hyRXQwVlMwZkhBRTFnaGhxd2pLbHFlNnplR05qZXA4cWhQaXZHT25xMk1EN2V3d3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTgwNDYzCWZpbGU6T3JhLmFwcC50YXIuZ3oKZHBFSnZ6ZUtYTXZmNnpOWHNHRXEzWnppTG9waCs5STNvNUNwRXY0WDdpd0RMV043MmZ4WlhKTjdoSG8yOEVSYllxaWkvUVNwcm03RlRURkxZSzFYQlE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.16.0/Ora.app.tar.gz"
     }
   }
 }
