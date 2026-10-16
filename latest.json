@@ -1,11 +1,11 @@
 {
-  "version": "2.12.0",
-  "notes": "Shards jsou zrušené — na persony jsou agenti. Cowork ukazuje průběh čistě: během práce pod loaderem, po doběhnutí jeden řádek „Pracováno…“, který jde rozkliknout.",
-  "pub_date": "2026-10-16T18:13:09.440Z",
+  "version": "2.13.0",
+  "notes": "Ora se umí zeptat na víc věcí najednou: místo jedné otázky ukáže kartu s čipy, polem pro vlastní odpověď a tlačítkem Pokračovat. Funguje v Oře, Chatu, Coworku i v rychlém chatu.",
+  "pub_date": "2026-10-16T18:28:32.439Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUwyYVFFdDRqQ2R3RDN4U3NucVVqcElYZ1QwRzltQXFQMUxkcmI5bHVkaXZtQ2I2NEJqWEtGOGRkMDJacEdnTDBUWjZ2aDRGUnhwbGd4V2dsVkZCQ0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTc0Mzg5CWZpbGU6T3JhLmFwcC50YXIuZ3oKQlZMbTdmaW84TkhSU24waGpKQUhZRnMrNWpXeHdkZmFwNHhHeGJ0b3c2Y0hrc0dJaVpRQlJHZlVieGpIYzVYY2ZvcGx1Z1M5Um5CMm1kWmVGTmw0QVE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.12.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUhLUktzdVIzWmtYTUpDS0l3bUtObjBLMnd0Yzg0ZDVEa1NMU2FwSXlrZHlGZDRtZi9XaGtjNmIveVFrU3hXdWxhczRCSEd5V0hIZXp5SDNqSjhuelFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTc1MzEyCWZpbGU6T3JhLmFwcC50YXIuZ3oKVjg5YnltcFdFVE1LTkNBckVNOWhsZkZEZnk3U0RqYWtwVm9LTy9wbjNIdkZsZDVJSE8xa016aVJmcjd4bk9oVG5TSzNhbldpTmhrdlRadXlQQnZ5Qmc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.13.0/Ora.app.tar.gz"
     }
   }
 }
