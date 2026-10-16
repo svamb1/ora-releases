@@ -1,11 +1,11 @@
 {
-  "version": "2.11.1",
-  "notes": "Ora o sobě mluví vždy v ženském rodě a přihlášení k Seznamu se po krátkém výpadku samo zopakuje. Koncept mailu bez předmětu už nedostane jako předmět oslovení.",
-  "pub_date": "2026-10-11T09:47:24.444Z",
+  "version": "2.11.2",
+  "notes": "Ora teď v kalendáři vidí i místo a poznámky události (třeba kde je sraz) a umí si prohlédnout fotku, kterou jí pošleš mailem.",
+  "pub_date": "2026-10-16T15:15:00.428Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRVBnbTh5STFRQmYwYWF0azNqTXJ0eGx0T3h0SUhzYU5lM2cvWEluTmxLSFBGdXNESWRZRG8wSit4TW16YlB3dTVhZmgrK0JPd3gwc05QaEw0Z0V5UVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzEyMDQ0CWZpbGU6T3JhLmFwcC50YXIuZ3oKUElHdDhNNXdFaHJxS2t4YXhaM1RSS0J2TjRTNjAwSjQwYzlMY1hKc3FCKzJJWlZzQzRlTC95WDFTaU5IclZXbjNDdjFsaCtWbFR2b2owVlNZek9GRFE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.11.1/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUdUS3BMMVZuSEVxSDI4OWYzTjF5eW9LMFJTUUJIVXRrSGFZSEZCWGl2dHVyOFA4YjBHM0dQYlp2TUZYUnBFLzFYUHp6V0xLdVU5QjhNQ2M4K0NhSXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTYzNzAwCWZpbGU6T3JhLmFwcC50YXIuZ3oKQ1UwMGFGem5hbTNScGFmZTlkbFVaa2NDbDZBa3F4WEV1dmdYSEdKek9aWWtBWE1DQW9PbVVuZGhKTmNXR0cyV29OMFB6NU1qZnltbkhwdDZ3and2RFE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.11.2/Ora.app.tar.gz"
     }
   }
 }
