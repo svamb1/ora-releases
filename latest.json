@@ -1,11 +1,11 @@
 {
-  "version": "2.16.0",
-  "notes": "Propojené znalosti agentů: soubor, který průběžně upravuješ (Excel, Word, PowerPoint), můžeš agentovi propojit a on pokaždé čte jeho aktuální stav. Když soubor nejde otevřít, čte poslední známý stav; u velkého sešitu si přečte jen potřebný list.",
-  "pub_date": "2026-10-16T19:54:23.452Z",
+  "version": "2.16.1",
+  "notes": "Ora teď s cloudovými modely zachází úsporněji s tokeny: opakující se část pokynů si poskytovatel drží v mezipaměti a do historie konverzace se neposílají celá data widgetů (články z Wikipedie, výsledky hledání). Chování ani vzhled se nemění.",
+  "pub_date": "2026-10-18T13:00:48.439Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUthV0prcnFVYnI3dFFhc0R1TGdRdVoxUnZwOWFKaFYycmtrR0hyRXQwVlMwZkhBRTFnaGhxd2pLbHFlNnplR05qZXA4cWhQaXZHT25xMk1EN2V3d3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTgwNDYzCWZpbGU6T3JhLmFwcC50YXIuZ3oKZHBFSnZ6ZUtYTXZmNnpOWHNHRXEzWnppTG9waCs5STNvNUNwRXY0WDdpd0RMV043MmZ4WlhKTjdoSG8yOEVSYllxaWkvUVNwcm03RlRURkxZSzFYQlE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.16.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUlwQVgyWHMrYXlqb0JPV2NYeE1BVGNZVWdtWEt1d3llZ04xM2lXWGQvNkp3Y0lrSzIySEdXTGIyT3BXOFpFcTNqMkZocFBaV1dKdHg1VnVmaTNUMUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzI4NDQ4CWZpbGU6T3JhLmFwcC50YXIuZ3oKdnhiK0hOaUkyOWJZN0xwa1FmS3oxUWU4S2tGY1k1QVBQRnp3bTl1UEpHS1VTVW8yemtOWkExRXZ6NEFGZlIwL0JLU0FweVZ0a1k2UlppaGt5ZHlrQnc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.16.1/Ora.app.tar.gz"
     }
   }
 }
