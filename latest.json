@@ -1,11 +1,11 @@
 {
-  "version": "2.17.1",
-  "notes": "Ora si v odpovědích mailem pamatuje celý rozhovor, umí smazat nebo přesunout víc připomínek naráz a založit nový seznam. Fotky přiložené v okně teď vidí a umí je uložit do složky.",
-  "pub_date": "2026-10-20T11:16:05.421Z",
+  "version": "2.18.0",
+  "notes": "Nová sekce Nastavení → iPhone: propojení Ory s iPhonem přes šifrovanou schránku (QR kód, odpojení, co se sdílí). Mac vyřizuje úkoly z Ory na iPhonu a posílá telefonu nastavení, agenty, paměť a návrhy. Stará schránka přes iCloud (ukoly, zapisnik) je zrušená.",
+  "pub_date": "2026-10-20T17:24:03.501Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRURCS0M0K0N6OFQ3ekFjd2EralZTWWY4UVRJN3BiQ1NoeUc3Q1RjMjNwNFk5NWN2OUdIRkVvTExxTDY4c3NGSXlFREpVNnU5aXFFZGRSNGROMGF3THd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDk0OTY1CWZpbGU6T3JhLmFwcC50YXIuZ3oKNDk4RFc4VVJ4OWF2c2UxMGc0YnNwOWQzWXJjQTM0UWZNTU9tOW42QTVwSTNVQzJwYjJmcm5OQ244UlRMQlVkczRKQm45Sm1IUXkrQU93Z3o4OEplQWc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.17.1/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUN1NVRpUVRwRENoYXRZNkFvTWRpdUpMeVlqRzBhMk00YU1qdGNRa0ZSc1hOVVNFcE9zVHczY0pPNklYTGNSZWd5Mk4vNGUwaHhlbUtHQnoyc0NWVVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTE3MDQzCWZpbGU6T3JhLmFwcC50YXIuZ3oKem15a2l5clFhd3pxUjhQNFpjMk5YdGsvR3dmdkwvYWV3K3hiQVZJeEhEc0ZSNGp3WTdTS0dhQXJ1RHF1UGtsV1U1M0lPMzVRNEhobTd2RE9abGpGQ2c9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.18.0/Ora.app.tar.gz"
     }
   }
 }
