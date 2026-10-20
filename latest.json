@@ -1,11 +1,11 @@
 {
-  "version": "2.17.0",
-  "notes": "Projekty: vyber složku, napiš zadání a pracuj s Orou na skutečných souborech — PowerPoint, Word i Excel. Ora vidí, co jsi od minula změnil, a navazuje na to; před každou úpravou uloží zálohu, kterou jde jedním klikem vrátit, a otevřený soubor nepřepíše.",
-  "pub_date": "2026-10-18T13:21:15.442Z",
+  "version": "2.17.1",
+  "notes": "Ora si v odpovědích mailem pamatuje celý rozhovor, umí smazat nebo přesunout víc připomínek naráz a založit nový seznam. Fotky přiložené v okně teď vidí a umí je uložit do složky.",
+  "pub_date": "2026-10-20T11:16:05.421Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU9aVXFXeVltMXc0SmdGM3lmRmc1SHdhNDd2Zmd6QUUvUGZFMUlmK0V3SUFaeFJSL3FaMXRnVUYzektiZlc3ZGJ5MTNQVFMvNjd1N2FwbWl0TENld2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzI5Njc1CWZpbGU6T3JhLmFwcC50YXIuZ3oKYjlMRGp1THBrWGliSG8xbHppZ1JGaW9Gck1va1JGZW96SURGK2lYRzJhalZJQU5RM0N2aERNNTB3WlI2UGF5ZW9tdTlINC9rT1AyOEtobEl3QkdqQnc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.17.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRURCS0M0K0N6OFQ3ekFjd2EralZTWWY4UVRJN3BiQ1NoeUc3Q1RjMjNwNFk5NWN2OUdIRkVvTExxTDY4c3NGSXlFREpVNnU5aXFFZGRSNGROMGF3THd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDk0OTY1CWZpbGU6T3JhLmFwcC50YXIuZ3oKNDk4RFc4VVJ4OWF2c2UxMGc0YnNwOWQzWXJjQTM0UWZNTU9tOW42QTVwSTNVQzJwYjJmcm5OQ244UlRMQlVkczRKQm45Sm1IUXkrQU93Z3o4OEplQWc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.17.1/Ora.app.tar.gz"
     }
   }
 }
