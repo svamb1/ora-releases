@@ -1,11 +1,11 @@
 {
-  "version": "2.18.0",
-  "notes": "Nová sekce Nastavení → iPhone: propojení Ory s iPhonem přes šifrovanou schránku (QR kód, odpojení, co se sdílí). Mac vyřizuje úkoly z Ory na iPhonu a posílá telefonu nastavení, agenty, paměť a návrhy. Stará schránka přes iCloud (ukoly, zapisnik) je zrušená.",
-  "pub_date": "2026-10-20T17:24:03.501Z",
+  "version": "2.19.0",
+  "notes": "Ora na iPhonu: čipy klepnuté v telefonu se propíšou na Mac (vyřízené se jen označí, zbytek udělá Mac), nové návrhy přijdou do iPhonu jako oznámení, v historii Ory je „Z iPhonu“ s dlaždicemi a rozhovor z telefonu jde na Macu dopsat (přesune se do historie). Mac si zálohuje vlákna z telefonu a úkoly od agentů vyřizuje ten agent.",
+  "pub_date": "2026-10-21T10:50:01.432Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUN1NVRpUVRwRENoYXRZNkFvTWRpdUpMeVlqRzBhMk00YU1qdGNRa0ZSc1hOVVNFcE9zVHczY0pPNklYTGNSZWd5Mk4vNGUwaHhlbUtHQnoyc0NWVVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTE3MDQzCWZpbGU6T3JhLmFwcC50YXIuZ3oKem15a2l5clFhd3pxUjhQNFpjMk5YdGsvR3dmdkwvYWV3K3hiQVZJeEhEc0ZSNGp3WTdTS0dhQXJ1RHF1UGtsV1U1M0lPMzVRNEhobTd2RE9abGpGQ2c9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.18.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRVBHQXFscHpFM0VBblZNODV3S2RjSXZCN0RBZ1JVVlJzZUpCbVg4MHNYbHNydUNaMG1XYU4yWEVvR2U0eTBzbGJpcDQ1MGZjK3A4NVlxcjFSMFB6eHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTc5ODAxCWZpbGU6T3JhLmFwcC50YXIuZ3oKZFk4YnVDL3VyWnlsajZwSStwTzQ0S0VSRElOelFPQ2RMVU9EWlM2MllUN1hvS2srOVV2cVU1b3FhbzZrL2pDRitNTDlEZ0ROdlp2citPeTk3QzRmRFE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.19.0/Ora.app.tar.gz"
     }
   }
 }
