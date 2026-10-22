@@ -1,11 +1,11 @@
 {
-  "version": "2.20.0",
-  "notes": "Naplánované úkoly z iPhonu: agent si úkol na později opravdu naplánuje a výsledek přijde zpátky do vlákna na telefonu (i když to nevyjde). Agenti z telefonu umí i automatizace.",
-  "pub_date": "2026-10-22T14:51:25.429Z",
+  "version": "2.20.1",
+  "notes": "Pošta: když ověření Gmailu nebo Seznamu selže, můžeš rovnou zadat nové heslo aplikace.",
+  "pub_date": "2026-10-22T14:59:54.470Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUdQK3NFSm5JaktiMWFKaUdWRFl1MnFINk5YcDAxVlRiZzA5dStJOEVGaDNiOVV4N3dmbEpXbUdmdSs5Uy9OM24zc3pOM3hlQk5nMHM2YlBYSDJHdUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgwNjg1CWZpbGU6T3JhLmFwcC50YXIuZ3oKVk5WVTRMeEdyMEpkVG1qbWhoa0RWRTZQM3FjOFhjemN4bWJvUUR4MUNFVW5xaklkdmQyUUNhYUtFT3lOdVNFUUxianBFRVpzWnpIb1MvbHNKQWhDQlE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.20.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRURueWZxUmEvSlhIU0oxblB2MnByb1krZnpxTWhUMjlSczg2NTI3YXg0aUI4NXFleXF2aTIvTUpuUEJpVDRRZGxqa0lIYmloekJIZllHeWt3bWQ3V3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgxMTk0CWZpbGU6T3JhLmFwcC50YXIuZ3oKd0grdjk2TUhoMmxPYTBJdldtVW1Kc3lVTEdldFA3TkE1NmdTSGtpZVZVWmlWZ21PbkFzRGYrcm5iSlRSU002bXNLYWRldjZaalMxUlhsTzJnNEozQ2c9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.20.1/Ora.app.tar.gz"
     }
   }
 }
