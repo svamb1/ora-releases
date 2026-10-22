@@ -1,11 +1,11 @@
 {
-  "version": "2.19.0",
-  "notes": "Ora na iPhonu: čipy klepnuté v telefonu se propíšou na Mac (vyřízené se jen označí, zbytek udělá Mac), nové návrhy přijdou do iPhonu jako oznámení, v historii Ory je „Z iPhonu“ s dlaždicemi a rozhovor z telefonu jde na Macu dopsat (přesune se do historie). Mac si zálohuje vlákna z telefonu a úkoly od agentů vyřizuje ten agent.",
-  "pub_date": "2026-10-21T10:50:01.432Z",
+  "version": "2.20.0",
+  "notes": "Naplánované úkoly z iPhonu: agent si úkol na později opravdu naplánuje a výsledek přijde zpátky do vlákna na telefonu (i když to nevyjde). Agenti z telefonu umí i automatizace.",
+  "pub_date": "2026-10-22T14:51:25.429Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRVBHQXFscHpFM0VBblZNODV3S2RjSXZCN0RBZ1JVVlJzZUpCbVg4MHNYbHNydUNaMG1XYU4yWEVvR2U0eTBzbGJpcDQ1MGZjK3A4NVlxcjFSMFB6eHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTc5ODAxCWZpbGU6T3JhLmFwcC50YXIuZ3oKZFk4YnVDL3VyWnlsajZwSStwTzQ0S0VSRElOelFPQ2RMVU9EWlM2MllUN1hvS2srOVV2cVU1b3FhbzZrL2pDRitNTDlEZ0ROdlp2citPeTk3QzRmRFE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.19.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUdQK3NFSm5JaktiMWFKaUdWRFl1MnFINk5YcDAxVlRiZzA5dStJOEVGaDNiOVV4N3dmbEpXbUdmdSs5Uy9OM24zc3pOM3hlQk5nMHM2YlBYSDJHdUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgwNjg1CWZpbGU6T3JhLmFwcC50YXIuZ3oKVk5WVTRMeEdyMEpkVG1qbWhoa0RWRTZQM3FjOFhjemN4bWJvUUR4MUNFVW5xaklkdmQyUUNhYUtFT3lOdVNFUUxianBFRVpzWnpIb1MvbHNKQWhDQlE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.20.0/Ora.app.tar.gz"
     }
   }
 }
