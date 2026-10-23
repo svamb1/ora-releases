@@ -1,11 +1,11 @@
 {
-  "version": "2.21.1",
-  "notes": "Nastavení dovedností najdeš na jednom místě: Ory Gmail, Mapy.com, Jízdní řády a Finanční data mají vlastní stránku v Dovednostech (klíče, účet, stahování). Z Nastavení tyto sekce zmizely. Položky v postranním panelu jsou o kus větší a čitelnější.",
-  "pub_date": "2026-10-23T18:57:22.433Z",
+  "version": "2.22.0",
+  "notes": "Projekty jsou teď součástí Coworku: pod nápisem Cowork přepínáš Úkol a Projekt. Projekt založíš přidáním složky (nové i rozdělané), zadáním je první zpráva. Konverzaci v projektu jde zmenšit do rychlého chatu a pokračovat v ní odkudkoliv; návrat přes Dock, ⌘Tab nebo tlačítko v pillu.",
+  "pub_date": "2026-10-23T19:59:54.433Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUc1WmRPaGRXREdBMFpWaStRMzVqZ3lRVXMrRDczbXNvOFpzdzNackphK2NMZmFnaVNMVEtSbHVIaU5qYlZvMmkrd0JFOTFUV3RFS0ZYMCtKbFo2YlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgxODQyCWZpbGU6T3JhLmFwcC50YXIuZ3oKelJFQU91TVMyNllDaFJrSWUxK3BDdWVKRXJYWFJGWFVFMGN5VldmVHp4a21ZTi9YT05XcENSV2QxOW04U2hoTzBiMjBoL2poNUxmTkRMUVM2VVZRREE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.21.1/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU80YnEvQVJYNzBMYTFIajFjTGlmOHU5dXJtYzV2Y3N5VlVUSE5lUFJ2RWMvRmt3TDRkTEM3VGZQdGhHbWNNQnFJODlFSHVoNGdCMHBaY3hJaXhvK3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzg1NTk0CWZpbGU6T3JhLmFwcC50YXIuZ3oKZjBSZmVSU2lqSWNEM0F1VXhDWFJGV3QzQzVhcnlDYjVWdkJEQjUzREhnMkxKMkJtQTQycThhRVVkVUFMRzd2ejhWQW9oOFErbExmalM4MDdpVHg5QVE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.22.0/Ora.app.tar.gz"
     }
   }
 }
