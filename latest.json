@@ -1,11 +1,11 @@
 {
-  "version": "2.21.0",
-  "notes": "Nový vzhled: postranní panel jako ve Finderu. Už neplave, přiléhá k okraji okna a v tmavém režimu má o kousek tmavší odstín než plocha chatu. Řádky jsou čistší a čitelnější, fungování se nemění.",
-  "pub_date": "2026-10-23T16:02:51.420Z",
+  "version": "2.21.1",
+  "notes": "Nastavení dovedností najdeš na jednom místě: Ory Gmail, Mapy.com, Jízdní řády a Finanční data mají vlastní stránku v Dovednostech (klíče, účet, stahování). Z Nastavení tyto sekce zmizely. Položky v postranním panelu jsou o kus větší a čitelnější.",
+  "pub_date": "2026-10-23T18:57:22.433Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRVBCQ3JiYlUrTUFDQlNuSnk3SS9HM1VWMTlDRUN1bnNRUkVkZy9vMytBNCtVNllyaytwNnFlTHkzRml0R3ViRlN4N0RleHBYVG9YQ0RqdTRFZE5rV3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzcxMzcxCWZpbGU6T3JhLmFwcC50YXIuZ3oKVS9NQ0p4U1BXOVhZSldzME4xRXdYckVVSDR6VjZpaEFwU29rVCsxUGVYYzhRY3FRaDJDZnNhbEl5aG5kR2RDSkppN2J4NFlKQ0w3aWxrbXoyZyszRFE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.21.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUc1WmRPaGRXREdBMFpWaStRMzVqZ3lRVXMrRDczbXNvOFpzdzNackphK2NMZmFnaVNMVEtSbHVIaU5qYlZvMmkrd0JFOTFUV3RFS0ZYMCtKbFo2YlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgxODQyCWZpbGU6T3JhLmFwcC50YXIuZ3oKelJFQU91TVMyNllDaFJrSWUxK3BDdWVKRXJYWFJGWFVFMGN5VldmVHp4a21ZTi9YT05XcENSV2QxOW04U2hoTzBiMjBoL2poNUxmTkRMUVM2VVZRREE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.21.1/Ora.app.tar.gz"
     }
   }
 }
