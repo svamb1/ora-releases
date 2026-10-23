@@ -1,11 +1,11 @@
 {
-  "version": "2.20.1",
-  "notes": "Pošta: když ověření Gmailu nebo Seznamu selže, můžeš rovnou zadat nové heslo aplikace.",
-  "pub_date": "2026-10-22T14:59:54.470Z",
+  "version": "2.21.0",
+  "notes": "Nový vzhled: postranní panel jako ve Finderu. Už neplave, přiléhá k okraji okna a v tmavém režimu má o kousek tmavší odstín než plocha chatu. Řádky jsou čistší a čitelnější, fungování se nemění.",
+  "pub_date": "2026-10-23T16:02:51.420Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRURueWZxUmEvSlhIU0oxblB2MnByb1krZnpxTWhUMjlSczg2NTI3YXg0aUI4NXFleXF2aTIvTUpuUEJpVDRRZGxqa0lIYmloekJIZllHeWt3bWQ3V3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgxMTk0CWZpbGU6T3JhLmFwcC50YXIuZ3oKd0grdjk2TUhoMmxPYTBJdldtVW1Kc3lVTEdldFA3TkE1NmdTSGtpZVZVWmlWZ21PbkFzRGYrcm5iSlRSU002bXNLYWRldjZaalMxUlhsTzJnNEozQ2c9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.20.1/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRVBCQ3JiYlUrTUFDQlNuSnk3SS9HM1VWMTlDRUN1bnNRUkVkZy9vMytBNCtVNllyaytwNnFlTHkzRml0R3ViRlN4N0RleHBYVG9YQ0RqdTRFZE5rV3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzcxMzcxCWZpbGU6T3JhLmFwcC50YXIuZ3oKVS9NQ0p4U1BXOVhZSldzME4xRXdYckVVSDR6VjZpaEFwU29rVCsxUGVYYzhRY3FRaDJDZnNhbEl5aG5kR2RDSkppN2J4NFlKQ0w3aWxrbXoyZyszRFE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.21.0/Ora.app.tar.gz"
     }
   }
 }
