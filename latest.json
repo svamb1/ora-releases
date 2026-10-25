@@ -1,11 +1,11 @@
 {
-  "version": "2.22.1",
-  "notes": "Widget počasí už neukazuje chybovou kartu, když se Ora napoprvé netrefí do místa — a „Praha 6“ najde jako Prahu.",
-  "pub_date": "2026-10-25T09:05:25.432Z",
+  "version": "2.23.0",
+  "notes": "Měkčí pole pro psaní a jednotné ve všech sekcích. Chip Effort ukáže hodnotu až při najetí myší. Chat má na cloudu Effort, režimy a Wikipedie jsou pryč. Tlačítko + rovnou otevře výběr souborů.",
+  "pub_date": "2026-10-25T21:20:37.433Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUdFVk9JNGtZY2RMUjNXUmFNZGtrcm9sdjNZaHc3eDZnYXRpUU5HUU1FSkM1NEIrbFNqMlVncUZ6VmVBMGowZ2JURXd4VDFmQk8wUktzY1ErcHRaS1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTE5MTI1CWZpbGU6T3JhLmFwcC50YXIuZ3oKZWxhZ3p2SEhKamxnbEFsMGtJRkl4NHQxNjkzZFNBUDdpMWJKNXJmOHNncEF3bGE3M3F5TTNhZjVxWThvUzcxU2IrQkpsbExXOEdVY2FHQ1JCUC9PREE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.22.1/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRURHQ2txRG50cS9UbFhXQnVYcE9aNmdXdmVBWTBrT29QWDVDYk9zb0Y3d0tzQmhWMzBrSTlMdkRXQldncmVqWHhhNmtCak1LTWM4di80RGJXV1FvTWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTYzMjM3CWZpbGU6T3JhLmFwcC50YXIuZ3oKNkF2MnYvYjhteHcxazZFOTJhaGJIQVRaSDFQa2M1V0J3dXFFUnR2cnlwTW1KZXlIcFRxY3B5aXFqRnZoejFONHVZcHZ5VFNGcC91a2lXdW9kUVl0Q3c9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.23.0/Ora.app.tar.gz"
     }
   }
 }
