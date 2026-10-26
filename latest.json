@@ -1,11 +1,11 @@
 {
-  "version": "2.23.0",
-  "notes": "Měkčí pole pro psaní a jednotné ve všech sekcích. Chip Effort ukáže hodnotu až při najetí myší. Chat má na cloudu Effort, režimy a Wikipedie jsou pryč. Tlačítko + rovnou otevře výběr souborů.",
-  "pub_date": "2026-10-25T21:20:37.433Z",
+  "version": "2.24.0",
+  "notes": "Karty od Ory už nemizí po otevření. Křížek kartu zahodí, hodiny ji odloží (vrátí se sama). Nová stránka Oznámení s čekajícími, odloženými, vyřízenými a zahozenými kartami. U mailu: Celý mail, Přečteno, Rozebrat s Orou a po odeslání odpovědi nabídka smazat původní mail.",
+  "pub_date": "2026-10-26T21:02:36.425Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRURHQ2txRG50cS9UbFhXQnVYcE9aNmdXdmVBWTBrT29QWDVDYk9zb0Y3d0tzQmhWMzBrSTlMdkRXQldncmVqWHhhNmtCak1LTWM4di80RGJXV1FvTWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTYzMjM3CWZpbGU6T3JhLmFwcC50YXIuZ3oKNkF2MnYvYjhteHcxazZFOTJhaGJIQVRaSDFQa2M1V0J3dXFFUnR2cnlwTW1KZXlIcFRxY3B5aXFqRnZoejFONHVZcHZ5VFNGcC91a2lXdW9kUVl0Q3c9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.23.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUo1cHRpOElhMkNhbEw4dVBHSE5jb1ZqaVlRZncwT0kxczVEWmx0YlVPL3VuZHczOUE3QWxaSFphV2Nub3VteEN4elBBYlRpUUs1M1ZnOC9ic0hlUndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ4NTU2CWZpbGU6T3JhLmFwcC50YXIuZ3oKRExJL0dnTUtPTUNMZi8xekFwVzJtMWJvZkM0anN1SWZzUVRwWUpwYlNFZ3VoZ3VkcU5JQWdncFhDZm1LZzRxL3NTeDZFNDhzNUJmenl1UGpRWUpkQ3c9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.24.0/Ora.app.tar.gz"
     }
   }
 }
