@@ -1,11 +1,11 @@
 {
-  "version": "2.24.0",
-  "notes": "Karty od Ory už nemizí po otevření. Křížek kartu zahodí, hodiny ji odloží (vrátí se sama). Nová stránka Oznámení s čekajícími, odloženými, vyřízenými a zahozenými kartami. U mailu: Celý mail, Přečteno, Rozebrat s Orou a po odeslání odpovědi nabídka smazat původní mail.",
-  "pub_date": "2026-10-26T21:02:36.425Z",
+  "version": "2.25.0",
+  "notes": "Jednotný vzhled celé Ory: šedé texty, zaoblení, karty, tlačítka, nadpisy, menu, tečky stavu a ikony mají teď všude stejnou podobu. Automatizace mají stejný přepínač a mazání přes ⋯ jako agenti.",
+  "pub_date": "2026-10-27T17:56:59.441Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUo1cHRpOElhMkNhbEw4dVBHSE5jb1ZqaVlRZncwT0kxczVEWmx0YlVPL3VuZHczOUE3QWxaSFphV2Nub3VteEN4elBBYlRpUUs1M1ZnOC9ic0hlUndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ4NTU2CWZpbGU6T3JhLmFwcC50YXIuZ3oKRExJL0dnTUtPTUNMZi8xekFwVzJtMWJvZkM0anN1SWZzUVRwWUpwYlNFZ3VoZ3VkcU5JQWdncFhDZm1LZzRxL3NTeDZFNDhzNUJmenl1UGpRWUpkQ3c9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.24.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUVoOUtGbC9hOHBjQW4wRmJJMU1jd2I2eTR0dDN2TUw4NHFnZmozUmFacHVFN1hObG02QXJOdEdvSUt1aE9pdzdZRElHbFFYcFR1Sk5Oc2labTFGeWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTIzODE5CWZpbGU6T3JhLmFwcC50YXIuZ3oKTEoyc2JVL2lwZklLWmVjMHBSb042U1dydkFOYjAycldpZEd1UnNNYW82U3BiSDNHMU5BNUU0bkF1TUliOW5uOHVLUGhIVXF6akp2TzBUL2JYUmZZQ0E9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.25.0/Ora.app.tar.gz"
     }
   }
 }
