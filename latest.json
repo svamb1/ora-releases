@@ -1,11 +1,11 @@
 {
-  "version": "2.26.0",
-  "notes": "Cowork je teď sekce Agenti: nahoře je agent, se kterým pracuješ, a klikem na něj vybereš jiného. Přes + připojíš složku, ve které agent pracuje. U delších úkolů vpravo uvidíš plán a průběh, u každé odpovědi avatar agenta, který na ní pracoval. Soubory od agentů najdeš na stránce Agenti v Artefaktech a Ora ti je umí najít a agentům práci předat.",
-  "pub_date": "2026-10-27T20:30:43.468Z",
+  "version": "2.27.0",
+  "notes": "Agenti teď zvládnou se složkou skoro cokoliv: třídit a kopírovat soubory (změny jdou vrátit), číst skeny a fotky textu, prohlédnout si obrázky i dokumenty, vytáhnout z videa snímky, oříznout ho a přepsat zvuk na text, převádět formáty přes Office a počítat s daty a grafy v Dílně. Nástroje na dokumenty se teď stahují samy, stav najdeš v Nastavení → Nástroje agentů.",
+  "pub_date": "2026-10-27T21:11:40.454Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUdJbHJ2bXZzU0VGTEJzVUlBRnBLUEdXNDRxeENxTGFFWlFycVkyRjV3ZDlHdTFQRHViUC9XZFg4aXZvMXMxRGhmMEkyTkQ1T0tBdU53ZXNLc21MNEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTMzMDQzCWZpbGU6T3JhLmFwcC50YXIuZ3oKNUlMV00rSFpyZFNqeVludjg2L3JMUEdPY01mdzdtWC9HbHhWTjNmYm40SmtENVVFb2tWTVFzWlhDanpLNjZOTGF1L3R6MUxEekpneVJYbkFMK0paRFE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.26.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU8xTHUwZ3V5TG5zVlRZNVdDZEV5QURUQm1GZUlIS2lhd2dPU0dKNitYcXNuckk0MnRtdC8vZVNrYnhUY3UzSFFLdHplbG5TR0ZtOWhWMDNDM050MUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM1NTAwCWZpbGU6T3JhLmFwcC50YXIuZ3oKSWNhSVhFNXBTV1pwaFpSN0hSTGprQ1pndS9PaC80bEhhTzNIQnd3OWxXK1diT1ZxdjllY3RZVUk3KzNkWnJPakdTOVRKVXFEU0dqR0FxK3hjWnVaQlE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.27.0/Ora.app.tar.gz"
     }
   }
 }
