@@ -1,11 +1,11 @@
 {
-  "version": "2.28.2",
-  "notes": "Ora zase spustí lokální modely i s novou oMLX 0.7 (dřív hlásila „Failed to start oMLX“).",
-  "pub_date": "2026-10-28T16:51:20.446Z",
+  "version": "2.28.3",
+  "notes": "Oru jde ručně přepnout na lokální model i se zapnutou cloudovou Orou (platí do restartu, výchozí cloud zůstává).",
+  "pub_date": "2026-10-28T17:36:17.496Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUtTREkxV0pZbm9oWlg1NGpHN1FLUlNXb1hOSk9TbWFqWG1CZlpYRzNHM3VlN1pQNDZPdGRDenJmS3dHL041RTM2WjNpWWY0Nlo1cHlCWnRpWVdIZWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjA2MjgwCWZpbGU6T3JhLmFwcC50YXIuZ3oKNHhqd1JqeDV2b1QwL0FRM3RJdW5jMmR3cnNrRkVteFNRYTUrN2RrU1o3cmV3S0pXZDg0NEdldWZmUVFaTXlKdWFkWXpMendDRnZZbitWbXMzQnJKQUE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.28.2/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUdDMTdycVNpTU9jQzdQN08vMHBxRVo5S3FhcmljWXZiRlI1SXBYV3lwcVQ1Z0laeGVNOG1ZZzNxZmR4QkNBU0VYVURtRVFtU2pJaUsrNndpQmVWUVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjA4OTc3CWZpbGU6T3JhLmFwcC50YXIuZ3oKc2Q5NWhoQ1FtNHdJN25BUFR5QXRGVGJjOFFLempOdFIzQUM4YTYwOHlMQ3ozRkpXYVFreG40dFk2Sk1sYjk1SVdaMHpHdHU0QTQzckV2QTlEM1lMQ0E9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.28.3/Ora.app.tar.gz"
     }
   }
 }
