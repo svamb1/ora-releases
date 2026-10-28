@@ -1,11 +1,11 @@
 {
-  "version": "2.28.1",
-  "notes": "Agent ve složce: plán jako jedna čára s body, rychlý chat a panel v jednom pillu. Agent už kvůli kontrole neotevírá Word, nekončí v půlce práce, píše pořádnou závěrečnou odpověď a hotový dokument je v panelu i pod odpovědí.",
-  "pub_date": "2026-10-28T16:30:59.434Z",
+  "version": "2.28.2",
+  "notes": "Ora zase spustí lokální modely i s novou oMLX 0.7 (dřív hlásila „Failed to start oMLX“).",
+  "pub_date": "2026-10-28T16:51:20.446Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUEyZFkvbkVVQmFoVXIzWXhsb0ZENlZidkVQaFNrZjRFcVpWdnhVYy94UmRrb1F5bHNLSlhlbllHQTVRUWRxL3ZXaG9jYmxXNFJITFFxdkRXQUpNcWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjA1MDU5CWZpbGU6T3JhLmFwcC50YXIuZ3oKbWIxaExQcmhHbGxmeE5yZ2dpN1pUNHQ5cEZNbHllTXdLSEdsMlVFS0wya0pUalFuK1RkcDJNMjVpdnc0NElPdEZENTZ6eUp2UjBHdi92RzBGbVRhQ3c9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.28.1/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUtTREkxV0pZbm9oWlg1NGpHN1FLUlNXb1hOSk9TbWFqWG1CZlpYRzNHM3VlN1pQNDZPdGRDenJmS3dHL041RTM2WjNpWWY0Nlo1cHlCWnRpWVdIZWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjA2MjgwCWZpbGU6T3JhLmFwcC50YXIuZ3oKNHhqd1JqeDV2b1QwL0FRM3RJdW5jMmR3cnNrRkVteFNRYTUrN2RrU1o3cmV3S0pXZDg0NEdldWZmUVFaTXlKdWFkWXpMendDRnZZbitWbXMzQnJKQUE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.28.2/Ora.app.tar.gz"
     }
   }
 }
