@@ -1,11 +1,11 @@
 {
-  "version": "2.28.0",
-  "notes": "Agent ve složce: vpravo plán práce a hotový dokument jako artefakt (i v pillu pod odpovědí), složka sbalená dole. Jedna hlavička odpovědi, menší tlačítko rychlého chatu, složka v poli bez rámečku. Agent už nepřepisuje tiché video, vkládá do Wordu fotky ze složky, píše česky s diakritikou a vždy napíše závěrečnou odpověď.",
-  "pub_date": "2026-10-28T15:47:57.429Z",
+  "version": "2.28.1",
+  "notes": "Agent ve složce: plán jako jedna čára s body, rychlý chat a panel v jednom pillu. Agent už kvůli kontrole neotevírá Word, nekončí v půlce práce, píše pořádnou závěrečnou odpověď a hotový dokument je v panelu i pod odpovědí.",
+  "pub_date": "2026-10-28T16:30:59.434Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU1hOU1lY1k1TlJKQ1lnRFJmdWxDRkdqSTBzMWJOTGdlVFZwSTZJMXZHdnlFc2pKaFFhSXkwcGdKNnVIWXZnV2lqK2Ntc1JhWGF4Z3ArMTc0ZFdhL2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjAyNDc3CWZpbGU6T3JhLmFwcC50YXIuZ3oKRGpRcUR6OVdldHZDRElPVGlqZEYvVjhteUxwU1NZVzZwZnNjMDdJUDZPek9ZdnppK0hiMXV4RTZiVVVqMkxQWUNWOURqb2UvSnpUNVhHOThjV1NCQkE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.28.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUEyZFkvbkVVQmFoVXIzWXhsb0ZENlZidkVQaFNrZjRFcVpWdnhVYy94UmRrb1F5bHNLSlhlbllHQTVRUWRxL3ZXaG9jYmxXNFJITFFxdkRXQUpNcWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjA1MDU5CWZpbGU6T3JhLmFwcC50YXIuZ3oKbWIxaExQcmhHbGxmeE5yZ2dpN1pUNHQ5cEZNbHllTXdLSEdsMlVFS0wya0pUalFuK1RkcDJNMjVpdnc0NElPdEZENTZ6eUp2UjBHdi92RzBGbVRhQ3c9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.28.1/Ora.app.tar.gz"
     }
   }
 }
