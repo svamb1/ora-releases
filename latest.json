@@ -1,11 +1,11 @@
 {
-  "version": "2.28.3",
-  "notes": "Oru jde ručně přepnout na lokální model i se zapnutou cloudovou Orou (platí do restartu, výchozí cloud zůstává).",
-  "pub_date": "2026-10-28T17:36:17.496Z",
+  "version": "2.29.0",
+  "notes": "Ora si pamatuje rozdělané věci: z rozhovorů si zapíše, co řešíš a nedotáhl, a jednou týdně (dřív, když něco spěchá) se připomene. Před schůzkami nabídne podklady z Finderu, Poznámek a pošty a uloží je, kam řekneš. Na každé kartě je „Tohle už nedělej“ a totéž jde říct Oře v chatu. U pochůzek si Ora umí přečíst stránku (ceník, otevírací dobu) a navrhne, kdy se stavit.",
+  "pub_date": "2026-10-29T09:57:05.518Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUdDMTdycVNpTU9jQzdQN08vMHBxRVo5S3FhcmljWXZiRlI1SXBYV3lwcVQ1Z0laeGVNOG1ZZzNxZmR4QkNBU0VYVURtRVFtU2pJaUsrNndpQmVWUVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjA4OTc3CWZpbGU6T3JhLmFwcC50YXIuZ3oKc2Q5NWhoQ1FtNHdJN25BUFR5QXRGVGJjOFFLempOdFIzQUM4YTYwOHlMQ3ozRkpXYVFreG40dFk2Sk1sYjk1SVdaMHpHdHU0QTQzckV2QTlEM1lMQ0E9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.28.3/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUdlSnhid1hGS3RJVm0ybTdKckl4NU9JVkp0Y1p4cWp3b0x0ZTVNTWFXOG1RWDBBeXJVcWZiZUFvUmRRRUJyanViQ0VmUGVKN3lmWGlOOFp4bGZ3OEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjY3ODI1CWZpbGU6T3JhLmFwcC50YXIuZ3oKTzBUdUJ1ZTU3U0NmV2pvb3BJOUlGL3ZKdkN2THJoQnpQRDlKY2JkQ0lyemFCdWRYa2FGL1k3RjEzeCtjOFlGMFIzcXVIei9ycmV1T0VZY3lqL3BnQkE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.29.0/Ora.app.tar.gz"
     }
   }
 }
