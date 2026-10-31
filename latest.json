@@ -1,11 +1,11 @@
 {
-  "version": "2.29.0",
-  "notes": "Ora si pamatuje rozdělané věci: z rozhovorů si zapíše, co řešíš a nedotáhl, a jednou týdně (dřív, když něco spěchá) se připomene. Před schůzkami nabídne podklady z Finderu, Poznámek a pošty a uloží je, kam řekneš. Na každé kartě je „Tohle už nedělej“ a totéž jde říct Oře v chatu. U pochůzek si Ora umí přečíst stránku (ceník, otevírací dobu) a navrhne, kdy se stavit.",
-  "pub_date": "2026-10-29T09:57:05.518Z",
+  "version": "2.30.0",
+  "notes": "Lepší paměť: Ora si ukládá jen to podstatné, umí fakt opravit i zapomenout a má profil seřazený podle důležitosti. Nově umí hledat v našich minulých konverzacích, takže se na ně můžeš odkazovat.",
+  "pub_date": "2026-10-31T18:08:02.466Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUdlSnhid1hGS3RJVm0ybTdKckl4NU9JVkp0Y1p4cWp3b0x0ZTVNTWFXOG1RWDBBeXJVcWZiZUFvUmRRRUJyanViQ0VmUGVKN3lmWGlOOFp4bGZ3OEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjY3ODI1CWZpbGU6T3JhLmFwcC50YXIuZ3oKTzBUdUJ1ZTU3U0NmV2pvb3BJOUlGL3ZKdkN2THJoQnpQRDlKY2JkQ0lyemFCdWRYa2FGL1k3RjEzeCtjOFlGMFIzcXVIei9ycmV1T0VZY3lqL3BnQkE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.29.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU52WVJWOHRTRithZ2xNSWFFN1I1ZmYvTlJZZDFDYkxxSHQ4N0t6VGliRlcxV2kzSEkyTEp1WGx5V2NsMVIxSGRqN3ZuQjdQbWwrbEJTL2g2bE9GendVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDcwMDgyCWZpbGU6T3JhLmFwcC50YXIuZ3oKVHRMM3RJVjZaNlpCeFczRklSZnhKeHArMGJseEJDY2hWN0V4T1oyZVIrdDhiTEl4cUlDOEZFWnRZQjVMNXpQQUZxR1ZObEE1UTFkeWlGUVduZzBnRGc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.30.0/Ora.app.tar.gz"
     }
   }
 }
