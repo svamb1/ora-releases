@@ -1,11 +1,11 @@
 {
-  "version": "2.30.0",
-  "notes": "Lepší paměť: Ora si ukládá jen to podstatné, umí fakt opravit i zapomenout a má profil seřazený podle důležitosti. Nově umí hledat v našich minulých konverzacích, takže se na ně můžeš odkazovat.",
-  "pub_date": "2026-10-31T18:08:02.466Z",
+  "version": "2.31.0",
+  "notes": "Ora umí na tvůj pokyn přesunout maily do koše (Gmail, Seznam, Outlook i školní pošta) a na „vrať to“ je vrátit zpátky.",
+  "pub_date": "2026-10-31T18:54:36.426Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU52WVJWOHRTRithZ2xNSWFFN1I1ZmYvTlJZZDFDYkxxSHQ4N0t6VGliRlcxV2kzSEkyTEp1WGx5V2NsMVIxSGRqN3ZuQjdQbWwrbEJTL2g2bE9GendVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDcwMDgyCWZpbGU6T3JhLmFwcC50YXIuZ3oKVHRMM3RJVjZaNlpCeFczRklSZnhKeHArMGJseEJDY2hWN0V4T1oyZVIrdDhiTEl4cUlDOEZFWnRZQjVMNXpQQUZxR1ZObEE1UTFkeWlGUVduZzBnRGc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.30.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU9QSHdtQXVob1RpNGR5QXNzbXdMMlBGYm1kTkZMK09tWnp6am5yK1RQSnJWOXROUW1yaG1QT0htZ0RjaHpaUWxSKzVZcmZNM0FnQ2dRU3hQYktFNEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDcyODc2CWZpbGU6T3JhLmFwcC50YXIuZ3oKcWdlS0QwR0pNQWxkTXdodk9VOW4vNGR6YWxtTk5UZml2UWlvL1J6M2p2RDVOT1ppV3l5T2Y0RnRHY2t2MFNDVGtsM1dxN2NIbUZjcHRpaWU4ZTdFRGc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.31.0/Ora.app.tar.gz"
     }
   }
 }
