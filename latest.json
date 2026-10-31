@@ -1,11 +1,11 @@
 {
-  "version": "2.31.0",
-  "notes": "Ora umí na tvůj pokyn přesunout maily do koše (Gmail, Seznam, Outlook i školní pošta) a na „vrať to“ je vrátit zpátky.",
-  "pub_date": "2026-10-31T18:54:36.426Z",
+  "version": "2.31.1",
+  "notes": "Agenti ukládají výsledek jen jednou, až je ověřený — žádné „ověřené“ a „finální“ verze navíc. Rešerše a denní přehled trhů jsou tak rychlejší a spotřebují méně tokenů.",
+  "pub_date": "2026-10-31T19:26:59.445Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU9QSHdtQXVob1RpNGR5QXNzbXdMMlBGYm1kTkZMK09tWnp6am5yK1RQSnJWOXROUW1yaG1QT0htZ0RjaHpaUWxSKzVZcmZNM0FnQ2dRU3hQYktFNEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDcyODc2CWZpbGU6T3JhLmFwcC50YXIuZ3oKcWdlS0QwR0pNQWxkTXdodk9VOW4vNGR6YWxtTk5UZml2UWlvL1J6M2p2RDVOT1ppV3l5T2Y0RnRHY2t2MFNDVGtsM1dxN2NIbUZjcHRpaWU4ZTdFRGc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.31.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU5WQ3BXUmZLbDlRcjlhK1AxWk81VkhUQ2hrS2FYM0ZNZG92YUpza2E1Vkt0SEFNWjJFSy8rTUxpdm5xZGFnclk3RjlYWlYvQi9LWGVqdTJyZ3Y1WGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDc0ODE5CWZpbGU6T3JhLmFwcC50YXIuZ3oKaXYyTm16OG9iRkJ1djdVdXcxMUtWREF0ZTltUm45YW5Eakt3anhrazlxS0lZekw5Z1l3NCtCZUhwMTBXV3p3UGVYWmZtS1E5ZlpyanltSEVVK3RaRGc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.31.1/Ora.app.tar.gz"
     }
   }
 }
