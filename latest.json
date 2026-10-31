@@ -1,11 +1,11 @@
 {
-  "version": "2.32.0",
-  "notes": "Automatizace: rozvrh umí denně, obden, každý druhý týden, měsíčně (15., poslední den, první pondělí), každé 3 nebo 6 měsíců i ročně. U každé si vybereš, kdo ji dělá: Ora, agent, nebo lokální model. Ora i agenti je umí založit, změnit i smazat v rozhovoru. Výsledek přijde s oznámením, volitelně i mailem. Rychlý chat se do 30 minut od poslední zprávy otevře na rozepsané konverzaci.",
-  "pub_date": "2026-10-31T20:14:07.433Z",
+  "version": "2.32.1",
+  "notes": "Ora umí stáhnout přílohu z mailu: řekni jí, ať ti najde mail a uloží přílohu do Stažených (nebo jinam). Funguje pro Gmail, Seznam, Outlook i školní poštu přes Apple Mail. Při čtení mailu teď vidí i seznam příloh a staženou přílohu si umí přečíst.",
+  "pub_date": "2026-10-31T21:02:39.444Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUxPVWxoVTEyd1NvM0ZiMW41ekpNQXJjREZZYU5qMTJ2bkZxOTBrZjdKOHNRTjFrcUxzVGJPOW1xV0pCY2xINWdMMGZTVHdaSHBybVZGSkhTV1Z2OVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDc3NjQ3CWZpbGU6T3JhLmFwcC50YXIuZ3oKWFBMSGtMdGFzckkycXJXSERvVlBrU0tETUNjZVJiOWNyV3dUZ3doY1lEenlhYVNGQ3l2MmlPdFgvcjg5bUFUSGZ1eDkzQXN5TEE0ci9zNmw2TGtrREE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.32.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUZCVW00ZXBxa0Iyb2FUSlA1T1M3c2FDSUoyNGN0Q2taTEw0Zjh4ZHlLemFmMEtNQ1BidVpkUlgxZFM1blBwS3Z3MVIySFlzaEFubzNNYXNoYlNIL0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDgwNTU5CWZpbGU6T3JhLmFwcC50YXIuZ3oKN0hTVHU2eDhkbkZnUlFkeG9KWjlHSWhXYjYxYkhJWnVwY2xralF3NWtLMG1EWHdxYXMzMHVxU2IzdVdpTVVDbGpmNGl3ZEpTd1hqckNGem9tTlh0RGc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.32.1/Ora.app.tar.gz"
     }
   }
 }
