@@ -1,11 +1,11 @@
 {
-  "version": "2.33.1",
-  "notes": "Pole pro zadání na Domů zůstává při přepnutí Ora / Agenti na stejném místě. Ora ti tyká a mluví o sobě v ženském rodě. Když předává práci agentovi, předá tvoje přání tvými slovy — bez bodů a postupu navíc, agent ví, jak práci dělat.",
-  "pub_date": "2026-11-02T18:46:25.456Z",
+  "version": "2.34.0",
+  "notes": "Lokální Ora je výrazně rychlejší: nejdřív si krátce určí, co tvoje zpráva potřebuje (kalendář, pošta, nic…), a pak dostane jen ty nástroje a krátký prompt. Model nepřemýšlí naprázdno. Pozdrav místo dvou minut za pár vteřin.",
+  "pub_date": "2026-11-02T19:12:01.450Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUtOODl2MDl6TVR1MlM5NHF1SWhGSUVoK2ZjUEVwOTFDM2praStCaGRBVys2Z0lDMU5XeHZsUWYxdThyYXlLdm9pWThqY0hsMXhNaUN1VjZXcmFyMlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQ1MTg1CWZpbGU6T3JhLmFwcC50YXIuZ3oKUzNabThoakgyV0M1UkxFQ0g4RzFsUlRiNjRBd1U0QnA3UmRtUTdaemFwRXFJMjBlWlVCQzhHRnBiUFBQVE5USlc1WllCV1FnU3h6bWJTcWpQTi9rQlE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.33.1/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU15T0MvZlByQlUwN25HbkpkRTJmVHRLblp5Y1BnejNKTldlZkhNQ01UcTFjRTRwRFNqUmtBU3g1ZlFuM1d0VUhXaXhCbWNYbEZkcU5zdG40NEdYVHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQ2NzIxCWZpbGU6T3JhLmFwcC50YXIuZ3oKT2h2NnQvTTJqWGMzTlo0Q05GTGFpRm5tSERGZkcwU3Ava1dBSUY0WXRJQ0tHSDRYTHdEcWErSHhEanErLzBDVU44dCtYNXdMT09EcDlrL1lwUFZ1RGc9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.34.0/Ora.app.tar.gz"
     }
   }
 }
