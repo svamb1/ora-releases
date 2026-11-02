@@ -1,11 +1,11 @@
 {
-  "version": "2.33.0",
-  "notes": "Rozdělané: jeden seznam toho, co máš rozdělané, místo závazků a rozpracovaných témat. Do tvých Připomínek Ora dává jen úkony s termínem (dojet, zaplatit, odevzdat). Odškrtnutá věc zmizí i z karet a ranní přehled ji už nenabídne. Každá věc se ozve nejvýš třikrát, pak se Ora zeptá, jestli pořád platí. Karta Brzy začíná a karty připomínek po termínu jsou pryč.",
-  "pub_date": "2026-11-02T18:03:57.454Z",
+  "version": "2.33.1",
+  "notes": "Pole pro zadání na Domů zůstává při přepnutí Ora / Agenti na stejném místě. Ora ti tyká a mluví o sobě v ženském rodě. Když předává práci agentovi, předá tvoje přání tvými slovy — bez bodů a postupu navíc, agent ví, jak práci dělat.",
+  "pub_date": "2026-11-02T18:46:25.456Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUNPeWF3R3Fod3JKWVY1TU13QWl3c2g4Tmh2VkU2Z2xTNWQwREhYTmdDKzhGbWxWNFJ6b24reVJiZTlLWFFIcWlmUFhGNnErT3hRTFkrQVNPbDRzdVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQyNjM3CWZpbGU6T3JhLmFwcC50YXIuZ3oKSmFPYVErSFNvbU9vK1JrNFkzb0dTcUlZNzJUUnpTelI4d0MyaUJ6MWNBa29FY2tGUm1HdlJzNG9DYXp2MVFEQlNaTytvMjF2aWNqNGRDQnZmR0NuQ3c9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.33.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUtOODl2MDl6TVR1MlM5NHF1SWhGSUVoK2ZjUEVwOTFDM2praStCaGRBVys2Z0lDMU5XeHZsUWYxdThyYXlLdm9pWThqY0hsMXhNaUN1VjZXcmFyMlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQ1MTg1CWZpbGU6T3JhLmFwcC50YXIuZ3oKUzNabThoakgyV0M1UkxFQ0g4RzFsUlRiNjRBd1U0QnA3UmRtUTdaemFwRXFJMjBlWlVCQzhHRnBiUFBQVE5USlc1WllCV1FnU3h6bWJTcWpQTi9rQlE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.33.1/Ora.app.tar.gz"
     }
   }
 }
