@@ -1,11 +1,11 @@
 {
-  "version": "2.32.1",
-  "notes": "Ora umí stáhnout přílohu z mailu: řekni jí, ať ti najde mail a uloží přílohu do Stažených (nebo jinam). Funguje pro Gmail, Seznam, Outlook i školní poštu přes Apple Mail. Při čtení mailu teď vidí i seznam příloh a staženou přílohu si umí přečíst.",
-  "pub_date": "2026-10-31T21:02:39.444Z",
+  "version": "2.33.0",
+  "notes": "Rozdělané: jeden seznam toho, co máš rozdělané, místo závazků a rozpracovaných témat. Do tvých Připomínek Ora dává jen úkony s termínem (dojet, zaplatit, odevzdat). Odškrtnutá věc zmizí i z karet a ranní přehled ji už nenabídne. Každá věc se ozve nejvýš třikrát, pak se Ora zeptá, jestli pořád platí. Karta Brzy začíná a karty připomínek po termínu jsou pryč.",
+  "pub_date": "2026-11-02T18:03:57.454Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUZCVW00ZXBxa0Iyb2FUSlA1T1M3c2FDSUoyNGN0Q2taTEw0Zjh4ZHlLemFmMEtNQ1BidVpkUlgxZFM1blBwS3Z3MVIySFlzaEFubzNNYXNoYlNIL0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDgwNTU5CWZpbGU6T3JhLmFwcC50YXIuZ3oKN0hTVHU2eDhkbkZnUlFkeG9KWjlHSWhXYjYxYkhJWnVwY2xralF3NWtLMG1EWHdxYXMzMHVxU2IzdVdpTVVDbGpmNGl3ZEpTd1hqckNGem9tTlh0RGc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.32.1/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUNPeWF3R3Fod3JKWVY1TU13QWl3c2g4Tmh2VkU2Z2xTNWQwREhYTmdDKzhGbWxWNFJ6b24reVJiZTlLWFFIcWlmUFhGNnErT3hRTFkrQVNPbDRzdVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQyNjM3CWZpbGU6T3JhLmFwcC50YXIuZ3oKSmFPYVErSFNvbU9vK1JrNFkzb0dTcUlZNzJUUnpTelI4d0MyaUJ6MWNBa29FY2tGUm1HdlJzNG9DYXp2MVFEQlNaTytvMjF2aWNqNGRDQnZmR0NuQ3c9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.33.0/Ora.app.tar.gz"
     }
   }
 }
