@@ -1,11 +1,11 @@
 {
-  "version": "2.35.0",
-  "notes": "Agenti umí vytvořit interaktivní stránku: kvíz, kartičky, interaktivní graf, kalkulačku, animaci nebo malou hru, třeba z tvé prezentace nebo tabulky. Otevře se vpravo vedle konverzace, pamatuje si postup a jde otevřít v prohlížeči nebo poslat přes AirDrop, Zprávy či Mail. Pravý panel u agentů se teď otevírá a zavírá plynule jako levý sidebar.",
-  "pub_date": "2026-11-03T17:30:45.491Z",
+  "version": "2.35.1",
+  "notes": "Mail na později z iPhonu teď opravdu odejde, ne jen jako koncept. Rozdělané už samy nevracejí zahozené věci a stejný mail nezaloží dvakrát.",
+  "pub_date": "2026-11-11T19:07:08.441Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUJzdC9UVGFsbWlzNjJ2Q0pLcjBEQ2xiT1MwK2tSR0VDYVQyMFJPN1NOSTN1SUp3cEdtNFlBeWVmdEppdVY1ZWxhS1RKK0V3YjZ1NkFwY1o5RmVYSWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzI3MDQ1CWZpbGU6T3JhLmFwcC50YXIuZ3oKNW5LR0dDWWRvdGRFQTBCTXRGWXd0eTdrRk52UDYxdVk0aFRHdzZGNUltT25yb2JiNVVzVE9JcENOZE13NlFRMVZOQWFCVmxzdlg4bElTNkVFaWxhQVE9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.35.0/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU9kckd4ZWQ0YUFxem9nZ3BmalAyR0NNTHBtVXJRV1o5aWhHUnJmOWVDWW9jRlNUeC8vSFRFZkExRllNN3hyT1NzN3ZhR1N4RWY5R0JQWXMrNXlHU0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI0MDI4CWZpbGU6T3JhLmFwcC50YXIuZ3oKbkdhVXNFNm9yQ3VsemVlTEF4TE1vME9OOEMrb255b3FMUVFrTkdzWEFXWjJUN2syRUlqRGE2bHU4NjJzb2ZEekhrZDZBUFliZE5wbHU5UUpIQ0o3Q0E9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.35.1/Ora.app.tar.gz"
     }
   }
 }
