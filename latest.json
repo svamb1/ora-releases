@@ -1,11 +1,11 @@
 {
-  "version": "2.35.1",
-  "notes": "Mail na později z iPhonu teď opravdu odejde, ne jen jako koncept. Rozdělané už samy nevracejí zahozené věci a stejný mail nezaloží dvakrát.",
-  "pub_date": "2026-11-11T19:07:08.441Z",
+  "version": "2.36.0",
+  "notes": "Hlasová Ora (beta). V novém chatu Ory klikni na mikrofon v poli a prostě mluv: okno Živě poslouchá samo, Ora odpovídá nahlas a co ukazuje (počasí, seznamy, grafy, maily), dává do očíslovaných karet — stačí říct číslo nebo na kartu kliknout. Můžeš jí skočit do řeči, zadat další úkol během práce, předat práci agentům na pozadí (ozve se, až to bude) a u připraveného mailu říct „pošli“. V rychlém chatu stačí podržet ⌥ Mezerník a mluvit. Hlas, rychlost a přepis nastavíš v Nastavení → Hlasová Ora.",
+  "pub_date": "2026-11-14T20:34:22.459Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRU9kckd4ZWQ0YUFxem9nZ3BmalAyR0NNTHBtVXJRV1o5aWhHUnJmOWVDWW9jRlNUeC8vSFRFZkExRllNN3hyT1NzN3ZhR1N4RWY5R0JQWXMrNXlHU0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI0MDI4CWZpbGU6T3JhLmFwcC50YXIuZ3oKbkdhVXNFNm9yQ3VsemVlTEF4TE1vME9OOEMrb255b3FMUVFrTkdzWEFXWjJUN2syRUlqRGE2bHU4NjJzb2ZEekhrZDZBUFliZE5wbHU5UUpIQ0o3Q0E9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.35.1/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUFPUFNHaXFtMm0zMWRrb000a3BzMktKUHlTWFZ6cktaVWlqaEdWV0lvM0JaV0FUMTRqTVc0R1FSWXZPZkM4TGNQVktoc0NRY0tuVEdEY2wyaEw5TXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njg4NDYyCWZpbGU6T3JhLmFwcC50YXIuZ3oKTlNhY1NNVzdpS2wwYTZRMXNJQmhQTy9IZmQyRHlqYnFabzA1SnQyUU5Bd2l0eTVLMUJOSWRmaU9qTGNKakRUSDNGK3g3QVcyeHVqbU1IemthUFgrRFE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.36.0/Ora.app.tar.gz"
     }
   }
 }
