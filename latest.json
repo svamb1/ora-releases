@@ -1,11 +1,11 @@
 {
-  "version": "2.36.1",
-  "notes": "Oznámení na iPhonu teď ukazují, co Ora hlásí: kdo píše a o čem, hotový úkol s první větou výsledku, ranní přehled s věcmi na dnes. Klepnutí otevře rovnou kartu nebo úkol.",
-  "pub_date": "2026-11-14T21:57:08.460Z",
+  "version": "2.36.2",
+  "notes": "Když se předání práce agentům nepovede, Ora to teď smí zkusit znovu a plánovač si při chybějícím plánu jednou řekne sám.",
+  "pub_date": "2026-11-19T10:03:36.444Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUFVMzZuWmg1c050RGNpRkh6SHZFdEtySS8vVVpnV2g1OHJGMEJKVFBZUjNlb0ZWQ1NsWi9nZUJURFVIRFZPRnBjQlVvN3ZpTHRydGExQ29qSVUxZkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjkzNDI4CWZpbGU6T3JhLmFwcC50YXIuZ3oKcTUxRUM5eGhKdHVzeTNVTnhycXRvejlBREk5Vi9TSlRYOXdtNHFQV09LaDdLN2pCRjMzWG1mNk9kdTNhRU8wYm1xQW9kdzZiMzBFYUdJRjRlZWdOQWc9PQo=",
-      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.36.1/Ora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcDBIcHpVTFUzRUhjcEthSmNzZ3Q2RHpBU2Z1TFhNaVRHY1ZVMFcvSUw3NTV2cW1kK0Nld1NwZGRvRDdCVmFJRE1MdGllZzVJSEsxd3RONDc4R0VDZGxqNlRhZUlXYXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDgyNjE2CWZpbGU6T3JhLmFwcC50YXIuZ3oKeXk3c2xVN0s1bmxsR3czdlR2M1dBcmU0SVcvWmxpaXNRcFNONGozZEtCMXJkcGNSMVRvVGFFU1B5SDZmQStKNmVyTzZKcWpIYUJwQVVTUWtmc2hmQlE9PQo=",
+      "url": "https://github.com/svamb1/ora-releases/releases/download/v2.36.2/Ora.app.tar.gz"
     }
   }
 }
